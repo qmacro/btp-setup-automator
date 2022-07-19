@@ -1,4 +1,4 @@
-# **mobile-client-log-upload** (Mobile Client Log Upload Service)
+# mobile-client-log-upload (Mobile Client Log Upload Service)
 
 Service category: **SERVICE**
 

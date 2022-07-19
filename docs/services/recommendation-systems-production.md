@@ -1,4 +1,4 @@
-# **recommendation-systems-production** (Personalized Recommendation)
+# recommendation-systems-production (Personalized Recommendation)
 
 Service category: **SERVICE**
 

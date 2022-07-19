@@ -1,4 +1,4 @@
-# **mobile-services** (Mobile Services)
+# mobile-services (Mobile Services)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **sap-ariba-shopping** (SAP Ariba Shopping)
+# sap-ariba-shopping (SAP Ariba Shopping)
 
 Service category: **APPLICATION**
 

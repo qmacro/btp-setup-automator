@@ -1,4 +1,4 @@
-# **api-management-devportal** (API Management, API Business Hub Enterprise)
+# api-management-devportal (API Management, API Business Hub Enterprise)
 
 Service category: **APPLICATION**
 

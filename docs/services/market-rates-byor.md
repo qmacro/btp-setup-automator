@@ -1,4 +1,4 @@
-# **market-rates-byor** (Market Rates, Bring Your Own Rates)
+# market-rates-byor (Market Rates, Bring Your Own Rates)
 
 Service category: **SERVICE**
 

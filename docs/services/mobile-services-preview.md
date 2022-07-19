@@ -1,4 +1,4 @@
-# **mobile-services-preview** (Mobile Services, preview)
+# mobile-services-preview (Mobile Services, preview)
 
 Service category: **SERVICE**
 

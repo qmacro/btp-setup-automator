@@ -1,4 +1,4 @@
-# **hana-db** (SAP HANA Service)
+# hana-db (SAP HANA Service)
 
 Service category: **SERVICE**
 

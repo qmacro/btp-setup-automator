@@ -1,4 +1,4 @@
-# **sdm-repository** (Document Management Service, Repository Option)
+# sdm-repository (Document Management Service, Repository Option)
 
 Service category: **SERVICE**
 

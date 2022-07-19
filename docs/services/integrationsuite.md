@@ -1,4 +1,4 @@
-# **integrationsuite** (Integration Suite)
+# integrationsuite (Integration Suite)
 
 Service category: **APPLICATION**
 

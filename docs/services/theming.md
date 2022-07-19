@@ -1,4 +1,4 @@
-# **theming** (UI Theme Designer)
+# theming (UI Theme Designer)
 
 Service category: **SERVICE**
 

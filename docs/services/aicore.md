@@ -1,4 +1,4 @@
-# **aicore** (SAP AI Core)
+# aicore (SAP AI Core)
 
 Service category: **SERVICE**
 

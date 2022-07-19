@@ -1,4 +1,4 @@
-# **html5-apps-repo** (HTML5 Application Repository Service)
+# html5-apps-repo (HTML5 Application Repository Service)
 
 Service category: **SERVICE**
 

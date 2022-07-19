@@ -1,4 +1,4 @@
-# **uas** (Usage Data Management)
+# uas (Usage Data Management)
 
 Service category: **SERVICE**
 

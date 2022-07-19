@@ -1,4 +1,4 @@
-# **data-intelligence** (SAP Data Intelligence)
+# data-intelligence (SAP Data Intelligence)
 
 Service category: **SERVICE**
 

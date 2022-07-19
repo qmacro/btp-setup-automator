@@ -1,4 +1,4 @@
-# **mobile-c2g** (Mobile Content)
+# mobile-c2g (Mobile Content)
 
 Service category: **SERVICE**
 

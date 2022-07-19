@@ -1,4 +1,4 @@
-# **application-logs** (Application Logging Service)
+# application-logs (Application Logging Service)
 
 Service category: **SERVICE**
 

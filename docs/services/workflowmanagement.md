@@ -1,4 +1,4 @@
-# **workflowmanagement** (Workflow Management)
+# workflowmanagement (Workflow Management)
 
 Service category: **SERVICE**
 

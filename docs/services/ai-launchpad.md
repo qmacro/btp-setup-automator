@@ -1,4 +1,4 @@
-# **ai-launchpad** (SAP AI Launchpad)
+# ai-launchpad (SAP AI Launchpad)
 
 Service category: **APPLICATION**
 

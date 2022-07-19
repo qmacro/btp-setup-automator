@@ -1,4 +1,4 @@
-# **redis** (Redis)
+# redis (Redis)
 
 Service category: **SERVICE**
 

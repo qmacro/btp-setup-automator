@@ -1,4 +1,4 @@
-# **ads** (Forms Service by Adobe)
+# ads (Forms Service by Adobe)
 
 Service category: **SERVICE**
 

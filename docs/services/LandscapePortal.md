@@ -1,4 +1,4 @@
-# **LandscapePortal** (Landscape Portal)
+# LandscapePortal (Landscape Portal)
 
 Service category: **APPLICATION**
 

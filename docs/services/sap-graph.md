@@ -1,4 +1,4 @@
-# **sap-graph** (SAP Graph)
+# sap-graph (SAP Graph)
 
 Service category: **SERVICE**
 

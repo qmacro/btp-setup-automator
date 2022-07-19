@@ -1,4 +1,4 @@
-# **market-rates-thr** (Market Rates, Refinitiv)
+# market-rates-thr (Market Rates, Refinitiv)
 
 Service category: **SERVICE**
 

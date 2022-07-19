@@ -1,4 +1,4 @@
-# **abap** (ABAP environment)
+# abap (ABAP environment)
 
 Service category: **SERVICE**
 

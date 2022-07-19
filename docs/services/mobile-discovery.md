@@ -1,4 +1,4 @@
-# **mobile-discovery** (Mobile Discovery)
+# mobile-discovery (Mobile Discovery)
 
 Service category: **SERVICE**
 

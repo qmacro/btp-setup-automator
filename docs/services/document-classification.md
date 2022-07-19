@@ -1,4 +1,4 @@
-# **document-classification** (Document Classification)
+# document-classification (Document Classification)
 
 Service category: **SERVICE**
 

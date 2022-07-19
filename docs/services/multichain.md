@@ -1,4 +1,4 @@
-# **multichain** (MultiChain)
+# multichain (MultiChain)
 
 Service category: **SERVICE**
 

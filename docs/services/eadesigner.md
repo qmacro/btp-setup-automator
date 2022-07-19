@@ -1,4 +1,4 @@
-# **eadesigner** (SAP EA Designer, cloud edition)
+# eadesigner (SAP EA Designer, cloud edition)
 
 Service category: **APPLICATION**
 

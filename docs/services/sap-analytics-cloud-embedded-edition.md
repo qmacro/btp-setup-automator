@@ -1,4 +1,4 @@
-# **sap-analytics-cloud-embedded-edition** (SAP Analytics Cloud, embedded edition)
+# sap-analytics-cloud-embedded-edition (SAP Analytics Cloud, embedded edition)
 
 Service category: **SERVICE**
 

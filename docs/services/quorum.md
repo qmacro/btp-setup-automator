@@ -1,4 +1,4 @@
-# **quorum** (Quorum)
+# quorum (Quorum)
 
 Service category: **SERVICE**
 

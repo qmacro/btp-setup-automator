@@ -1,4 +1,4 @@
-# **personal-data-manager-service** (Personal Data Manager)
+# personal-data-manager-service (Personal Data Manager)
 
 Service category: **SERVICE**
 

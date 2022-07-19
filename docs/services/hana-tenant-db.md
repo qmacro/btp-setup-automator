@@ -1,4 +1,4 @@
-# **hana-tenant-db** (SAP HANA Tenant Database)
+# hana-tenant-db (SAP HANA Tenant Database)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **automationpilot** (Automation Pilot)
+# automationpilot (Automation Pilot)
 
 Service category: **APPLICATION**
 

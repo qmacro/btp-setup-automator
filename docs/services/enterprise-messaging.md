@@ -1,4 +1,4 @@
-# **enterprise-messaging** (Event Mesh)
+# enterprise-messaging (Event Mesh)
 
 Service category: **SERVICE**
 

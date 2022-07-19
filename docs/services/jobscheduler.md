@@ -1,4 +1,4 @@
-# **jobscheduler** (Job Scheduling Service)
+# jobscheduler (Job Scheduling Service)
 
 Service category: **SERVICE**
 

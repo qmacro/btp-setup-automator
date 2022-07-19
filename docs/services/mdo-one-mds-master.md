@@ -1,4 +1,4 @@
-# **mdo-one-mds-master** (Master Data Integration (Orchestration))
+# mdo-one-mds-master (Master Data Integration (Orchestration))
 
 Service category: **APPLICATION**
 

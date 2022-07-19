@@ -1,4 +1,4 @@
-# **extension-center** (Extension Center)
+# extension-center (Extension Center)
 
 Service category: **APPLICATION**
 

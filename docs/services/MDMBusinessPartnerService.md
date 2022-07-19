@@ -1,4 +1,4 @@
-# **MDMBusinessPartnerService** (SAP Business Partner Service)
+# MDMBusinessPartnerService (SAP Business Partner Service)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **document-translation** (Document Translation)
+# document-translation (Document Translation)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **PersonalDataManagerApp** (Personal Data Manager)
+# PersonalDataManagerApp (Personal Data Manager)
 
 Service category: **APPLICATION**
 

@@ -1,4 +1,4 @@
-# **blockchain-services** (Blockchain Application Enablement)
+# blockchain-services (Blockchain Application Enablement)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **MDOrchestrationApplication** (Master Data Orchestration)
+# MDOrchestrationApplication (Master Data Orchestration)
 
 Service category: **APPLICATION**
 

@@ -1,4 +1,4 @@
-# **iot** (Internet of Things)
+# iot (Internet of Things)
 
 Service category: **SERVICE**
 

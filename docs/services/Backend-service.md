@@ -1,4 +1,4 @@
-# **Backend-service** (Backend Service)
+# Backend-service (Backend Service)
 
 Service category: **APPLICATION**
 

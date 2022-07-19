@@ -1,4 +1,4 @@
-# **business-rules** (Business Rules)
+# business-rules (Business Rules)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **feature-flags-dashboard** (Feature Flags)
+# feature-flags-dashboard (Feature Flags)
 
 Service category: **APPLICATION**
 

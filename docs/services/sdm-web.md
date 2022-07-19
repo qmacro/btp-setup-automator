@@ -1,4 +1,4 @@
-# **sdm-web** (Document Management Service, Application Option)
+# sdm-web (Document Management Service, Application Option)
 
 Service category: **APPLICATION**
 

@@ -1,4 +1,4 @@
-# **workcalendar** (Work Calendar)
+# workcalendar (Work Calendar)
 
 Service category: **SERVICE**
 

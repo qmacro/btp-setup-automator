@@ -1,4 +1,4 @@
-# **wums-partner-api-beta** (Workspace Utilization)
+# wums-partner-api-beta (Workspace Utilization)
 
 Service category: **SERVICE**
 

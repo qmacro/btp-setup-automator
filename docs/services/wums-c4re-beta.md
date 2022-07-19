@@ -1,4 +1,4 @@
-# **wums-c4re-beta** (Workspace Utilization)
+# wums-c4re-beta (Workspace Utilization)
 
 Service category: **APPLICATION**
 

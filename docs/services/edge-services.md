@@ -1,4 +1,4 @@
-# **edge-services** (SAP Edge Services)
+# edge-services (SAP Edge Services)
 
 Service category: **APPLICATION**
 

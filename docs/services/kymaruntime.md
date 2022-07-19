@@ -1,4 +1,4 @@
-# **kymaruntime** (Kyma runtime)
+# kymaruntime (Kyma runtime)
 
 Service category: **ENVIRONMENT**
 

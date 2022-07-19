@@ -1,4 +1,4 @@
-# **alm-ts** (Cloud Transport Management)
+# alm-ts (Cloud Transport Management)
 
 Service category: **APPLICATION**
 

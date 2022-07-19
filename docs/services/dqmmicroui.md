@@ -1,4 +1,4 @@
-# **dqmmicroui** (Data Quality Services UI)
+# dqmmicroui (Data Quality Services UI)
 
 Service category: **APPLICATION**
 

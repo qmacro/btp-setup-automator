@@ -1,4 +1,4 @@
-# **auditlog-api** (Audit Log Service API)
+# auditlog-api (Audit Log Service API)
 
 Service category: **SERVICE**
 

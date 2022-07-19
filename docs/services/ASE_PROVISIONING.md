@@ -1,4 +1,4 @@
-# **ASE_PROVISIONING** (SAP ASE Service)
+# ASE_PROVISIONING (SAP ASE Service)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **MDMBusinessPartnerApplication** (SAP Business Partner Application)
+# MDMBusinessPartnerApplication (SAP Business Partner Application)
 
 Service category: **APPLICATION**
 

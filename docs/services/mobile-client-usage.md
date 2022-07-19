@@ -1,4 +1,4 @@
-# **mobile-client-usage** (Mobile Client Usage Service)
+# mobile-client-usage (Mobile Client Usage Service)
 
 Service category: **SERVICE**
 

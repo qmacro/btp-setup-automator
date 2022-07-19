@@ -1,4 +1,4 @@
-# **mobile-proxy** (Mobile Connectivity Service)
+# mobile-proxy (Mobile Connectivity Service)
 
 Service category: **SERVICE**
 

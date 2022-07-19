@@ -1,4 +1,4 @@
-# **scp-launchpad** (Launchpad Service)
+# scp-launchpad (Launchpad Service)
 
 Service category: **SERVICE**
 

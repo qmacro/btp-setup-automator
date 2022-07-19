@@ -1,4 +1,4 @@
-# **mobile-push** (Mobile Push Notification)
+# mobile-push (Mobile Push Notification)
 
 Service category: **SERVICE**
 

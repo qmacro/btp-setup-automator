@@ -1,4 +1,4 @@
-# **api-management** (API Management)
+# api-management (API Management)
 
 Service category: **SERVICE**
 

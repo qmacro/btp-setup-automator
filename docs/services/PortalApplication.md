@@ -1,4 +1,4 @@
-# **PortalApplication** (Cloud Portal Service)
+# PortalApplication (Cloud Portal Service)
 
 Service category: **APPLICATION**
 

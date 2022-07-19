@@ -1,4 +1,4 @@
-# **abapcp-web-router** (Web access for ABAP)
+# abapcp-web-router (Web access for ABAP)
 
 Service category: **APPLICATION**
 

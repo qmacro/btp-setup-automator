@@ -1,4 +1,4 @@
-# **alert-notification** (Alert Notification)
+# alert-notification (Alert Notification)
 
 Service category: **SERVICE**
 

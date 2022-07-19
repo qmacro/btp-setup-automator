@@ -1,4 +1,4 @@
-# **sap-bigdataservices** (Big Data Services)
+# sap-bigdataservices (Big Data Services)
 
 Service category: **SERVICE**
 

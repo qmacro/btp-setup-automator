@@ -1,4 +1,4 @@
-# **iotae** (SAP IoT)
+# iotae (SAP IoT)
 
 Service category: **SERVICE**
 

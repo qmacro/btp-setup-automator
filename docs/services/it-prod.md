@@ -1,4 +1,4 @@
-# **it-prod** (Process Integration)
+# it-prod (Process Integration)
 
 Service category: **APPLICATION**
 

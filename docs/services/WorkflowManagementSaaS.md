@@ -1,4 +1,4 @@
-# **WorkflowManagementSaaS** (Workflow Management)
+# WorkflowManagementSaaS (Workflow Management)
 
 Service category: **APPLICATION**
 

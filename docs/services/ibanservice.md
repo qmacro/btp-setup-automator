@@ -1,4 +1,4 @@
-# **ibanservice** (IBAN Service)
+# ibanservice (IBAN Service)
 
 Service category: **SERVICE**
 

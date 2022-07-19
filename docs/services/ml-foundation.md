@@ -1,4 +1,4 @@
-# **ml-foundation** (SAP Leonardo ML Foundation)
+# ml-foundation (SAP Leonardo ML Foundation)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **workflow** (Workflow)
+# workflow (Workflow)
 
 Service category: **SERVICE**
 

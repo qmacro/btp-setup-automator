@@ -1,4 +1,4 @@
-# **mobile-settings-exchange** (Mobile Settings Exchange Service)
+# mobile-settings-exchange (Mobile Settings Exchange Service)
 
 Service category: **SERVICE**
 

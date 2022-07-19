@@ -1,4 +1,4 @@
-# **sdm** (Document Management Service, Integration Option)
+# sdm (Document Management Service, Integration Option)
 
 Service category: **SERVICE**
 

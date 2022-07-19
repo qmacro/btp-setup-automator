@@ -1,4 +1,4 @@
-# **connectivity** (Connectivity Service)
+# connectivity (Connectivity Service)
 
 Service category: **SERVICE**
 

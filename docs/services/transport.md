@@ -1,4 +1,4 @@
-# **transport** (Cloud Transport Management)
+# transport (Cloud Transport Management)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **destination** (Destination Service)
+# destination (Destination Service)
 
 Service category: **SERVICE**
 

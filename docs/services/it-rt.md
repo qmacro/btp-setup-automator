@@ -1,4 +1,4 @@
-# **it-rt** (Process Integration Runtime)
+# it-rt (Process Integration Runtime)
 
 Service category: **SERVICE**
 

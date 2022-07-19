@@ -1,4 +1,4 @@
-# **data-attribute-recommendation** (Data Attribute Recommendation)
+# data-attribute-recommendation (Data Attribute Recommendation)
 
 Service category: **SERVICE**
 

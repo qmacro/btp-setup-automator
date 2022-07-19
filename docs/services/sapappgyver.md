@@ -1,4 +1,4 @@
-# **sapappgyver** (SAP AppGyver)
+# sapappgyver (SAP AppGyver)
 
 Service category: **APPLICATION**
 

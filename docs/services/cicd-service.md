@@ -1,4 +1,4 @@
-# **cicd-service** (Continuous Integration & Delivery)
+# cicd-service (Continuous Integration & Delivery)
 
 Service category: **SERVICE**
 

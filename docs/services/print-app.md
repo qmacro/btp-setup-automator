@@ -1,4 +1,4 @@
-# **print-app** (Print Service)
+# print-app (Print Service)
 
 Service category: **APPLICATION**
 

@@ -1,4 +1,4 @@
-# **conversational-ai** (SAP Conversational AI)
+# conversational-ai (SAP Conversational AI)
 
 Service category: **SERVICE**
 

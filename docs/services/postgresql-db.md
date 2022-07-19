@@ -1,4 +1,4 @@
-# **postgresql-db** (PostgreSQL, hyperscaler option)
+# postgresql-db (PostgreSQL, hyperscaler option)
 
 Service category: **SERVICE**
 

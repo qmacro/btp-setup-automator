@@ -1,4 +1,4 @@
-# **rabbitmq** (RabbitMQ)
+# rabbitmq (RabbitMQ)
 
 Service category: **SERVICE**
 

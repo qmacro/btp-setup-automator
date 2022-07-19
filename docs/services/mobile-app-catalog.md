@@ -1,4 +1,4 @@
-# **mobile-app-catalog** (Mobile App Catalog)
+# mobile-app-catalog (Mobile App Catalog)
 
 Service category: **SERVICE**
 

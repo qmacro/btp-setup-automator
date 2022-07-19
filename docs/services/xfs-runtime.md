@@ -1,4 +1,4 @@
-# **xfs-runtime** (Extension Factory, serverless runtime)
+# xfs-runtime (Extension Factory, serverless runtime)
 
 Service category: **SERVICE**
 

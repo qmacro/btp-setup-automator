@@ -1,4 +1,4 @@
-# **business-entity-recognition** (Business Entity Recognition)
+# business-entity-recognition (Business Entity Recognition)
 
 Service category: **SERVICE**
 

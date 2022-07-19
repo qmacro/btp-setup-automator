@@ -1,4 +1,4 @@
-# **content-agent** (Content Agent Service)
+# content-agent (Content Agent Service)
 
 Service category: **SERVICE**
 

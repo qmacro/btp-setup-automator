@@ -1,4 +1,4 @@
-# **responsibilitymanagement-service** (Responsibility Management Service)
+# responsibilitymanagement-service (Responsibility Management Service)
 
 Service category: **SERVICE**
 

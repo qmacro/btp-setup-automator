@@ -1,4 +1,4 @@
-# **dq-services** (Data Quality Services)
+# dq-services (Data Quality Services)
 
 Service category: **SERVICE**
 

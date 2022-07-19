@@ -1,4 +1,4 @@
-# **apimanagement-devportal** (API Management, developer portal)
+# apimanagement-devportal (API Management, developer portal)
 
 Service category: **SERVICE**
 

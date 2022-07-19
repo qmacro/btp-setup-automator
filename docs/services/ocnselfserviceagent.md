@@ -1,4 +1,4 @@
-# **ocnselfserviceagent** (Open Connectors)
+# ocnselfserviceagent (Open Connectors)
 
 Service category: **APPLICATION**
 

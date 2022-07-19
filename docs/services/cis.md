@@ -1,4 +1,4 @@
-# **cis** (Cloud Management Service)
+# cis (Cloud Management Service)
 
 Service category: **SERVICE**
 

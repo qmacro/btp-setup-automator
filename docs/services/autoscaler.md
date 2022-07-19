@@ -1,4 +1,4 @@
-# **autoscaler** (Application Autoscaler)
+# autoscaler (Application Autoscaler)
 
 Service category: **SERVICE**
 

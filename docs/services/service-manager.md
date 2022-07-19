@@ -1,4 +1,4 @@
-# **service-manager** (Service Manager)
+# service-manager (Service Manager)
 
 Service category: **SERVICE**
 

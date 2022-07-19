@@ -1,4 +1,4 @@
-# **tnt-onboard-dataenrichment-dcp** (Data Enrichment)
+# tnt-onboard-dataenrichment-dcp (Data Enrichment)
 
 Service category: **APPLICATION**
 

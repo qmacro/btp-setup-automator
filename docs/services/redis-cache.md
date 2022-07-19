@@ -1,4 +1,4 @@
-# **redis-cache** (Redis, hyperscaler option)
+# redis-cache (Redis, hyperscaler option)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **privatelink** (Private Link Service)
+# privatelink (Private Link Service)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **adsrestapi** (Forms Service by Adobe API)
+# adsrestapi (Forms Service by Adobe API)
 
 Service category: **SERVICE**
 

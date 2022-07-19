@@ -1,4 +1,4 @@
-# **ui5-flexibility-keyuser** (UI5 flexibility for key users)
+# ui5-flexibility-keyuser (UI5 flexibility for key users)
 
 Service category: **SERVICE**
 

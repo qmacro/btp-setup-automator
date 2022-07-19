@@ -1,4 +1,4 @@
-# **feature-flags** (Feature Flags)
+# feature-flags (Feature Flags)
 
 Service category: **SERVICE**
 

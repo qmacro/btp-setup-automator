@@ -1,4 +1,4 @@
-# **service-ticket-intelligence** (Service Ticket Intelligence)
+# service-ticket-intelligence (Service Ticket Intelligence)
 
 Service category: **SERVICE**
 

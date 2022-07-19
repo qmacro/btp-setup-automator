@@ -1,4 +1,4 @@
-# **sap-calm** (SAP Cloud ALM, memory extension)
+# sap-calm (SAP Cloud ALM, memory extension)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **document-information-extraction-application** (Document Information Extraction UI)
+# document-information-extraction-application (Document Information Extraction UI)
 
 Service category: **APPLICATION**
 

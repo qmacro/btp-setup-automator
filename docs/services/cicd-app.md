@@ -1,4 +1,4 @@
-# **cicd-app** (Continuous Integration & Delivery)
+# cicd-app (Continuous Integration & Delivery)
 
 Service category: **APPLICATION**
 

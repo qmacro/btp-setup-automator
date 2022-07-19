@@ -1,4 +1,4 @@
-# **dataenrichment-business-partner** (Data Enrichment)
+# dataenrichment-business-partner (Data Enrichment)
 
 Service category: **SERVICE**
 

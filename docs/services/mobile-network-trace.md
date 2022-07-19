@@ -1,4 +1,4 @@
-# **mobile-network-trace** (Mobile Network Trace)
+# mobile-network-trace (Mobile Network Trace)
 
 Service category: **SERVICE**
 

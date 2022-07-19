@@ -1,4 +1,4 @@
-# **identity** (Cloud Identity Services)
+# identity (Cloud Identity Services)
 
 Service category: **SERVICE**
 

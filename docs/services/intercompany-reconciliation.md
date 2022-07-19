@@ -1,4 +1,4 @@
-# **intercompany-reconciliation** (Intelligent Intercompany Reconciliation)
+# intercompany-reconciliation (Intelligent Intercompany Reconciliation)
 
 Service category: **SERVICE**
 

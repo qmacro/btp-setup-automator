@@ -1,4 +1,4 @@
-# **intelligent-situation-automation-app** (Intelligent Situation Automation)
+# intelligent-situation-automation-app (Intelligent Situation Automation)
 
 Service category: **APPLICATION**
 

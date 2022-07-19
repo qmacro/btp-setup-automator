@@ -1,4 +1,4 @@
-# **IRPA** (SAP Intelligent Robotic Process Automation)
+# IRPA (SAP Intelligent Robotic Process Automation)
 
 Service category: **APPLICATION**
 

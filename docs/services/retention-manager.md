@@ -1,4 +1,4 @@
-# **retention-manager** (Data Retention Manager)
+# retention-manager (Data Retention Manager)
 
 Service category: **SERVICE**
 

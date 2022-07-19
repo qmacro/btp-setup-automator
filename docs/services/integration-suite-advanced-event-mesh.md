@@ -1,4 +1,4 @@
-# **integration-suite-advanced-event-mesh** (SAP Integration Suite, advanced event mesh)
+# integration-suite-advanced-event-mesh (SAP Integration Suite, advanced event mesh)
 
 Service category: **APPLICATION**
 

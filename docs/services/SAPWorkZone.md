@@ -1,4 +1,4 @@
-# **SAPWorkZone** (SAP Work Zone)
+# SAPWorkZone (SAP Work Zone)
 
 Service category: **APPLICATION**
 

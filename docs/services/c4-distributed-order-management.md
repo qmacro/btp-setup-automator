@@ -1,4 +1,4 @@
-# **c4-distributed-order-management** (SAP Order Management Foundation)
+# c4-distributed-order-management (SAP Order Management Foundation)
 
 Service category: **SERVICE**
 

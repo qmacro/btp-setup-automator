@@ -1,4 +1,4 @@
-# **cloudfoundry** (Cloud Foundry Runtime)
+# cloudfoundry (Cloud Foundry Runtime)
 
 Service category: **ENVIRONMENT**
 

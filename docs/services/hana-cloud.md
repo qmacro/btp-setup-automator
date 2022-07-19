@@ -1,4 +1,4 @@
-# **hana-cloud** (SAP HANA Cloud)
+# hana-cloud (SAP HANA Cloud)
 
 Service category: **SERVICE**
 

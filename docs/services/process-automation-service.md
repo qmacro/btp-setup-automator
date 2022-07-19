@@ -1,4 +1,4 @@
-# **process-automation-service** (SAP Process Automation)
+# process-automation-service (SAP Process Automation)
 
 Service category: **SERVICE**
 

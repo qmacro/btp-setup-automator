@@ -1,4 +1,4 @@
-# **postgresql** (PostgreSQL)
+# postgresql (PostgreSQL)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **sap-cai-onboarding** (SAP Conversational AI)
+# sap-cai-onboarding (SAP Conversational AI)
 
 Service category: **APPLICATION**
 

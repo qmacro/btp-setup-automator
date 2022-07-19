@@ -1,4 +1,4 @@
-# **objectstore** (Object Store)
+# objectstore (Object Store)
 
 Service category: **SERVICE**
 

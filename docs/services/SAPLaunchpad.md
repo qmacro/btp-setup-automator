@@ -1,4 +1,4 @@
-# **SAPLaunchpad** (Launchpad Service)
+# SAPLaunchpad (Launchpad Service)
 
 Service category: **APPLICATION**
 

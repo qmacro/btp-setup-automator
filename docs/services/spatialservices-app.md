@@ -1,4 +1,4 @@
-# **spatialservices-app** (HANA Spatial Services)
+# spatialservices-app (HANA Spatial Services)
 
 Service category: **APPLICATION**
 

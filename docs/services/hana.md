@@ -1,4 +1,4 @@
-# **hana** (SAP HANA Schemas & HDI Containers)
+# hana (SAP HANA Schemas & HDI Containers)
 
 Service category: **SERVICE**
 

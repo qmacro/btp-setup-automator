@@ -1,4 +1,4 @@
-# **invoice-object-recommendation** (Invoice Object Recommendation)
+# invoice-object-recommendation (Invoice Object Recommendation)
 
 Service category: **SERVICE**
 

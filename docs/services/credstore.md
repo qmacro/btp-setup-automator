@@ -1,4 +1,4 @@
-# **credstore** (Credential Store)
+# credstore (Credential Store)
 
 Service category: **SERVICE**
 

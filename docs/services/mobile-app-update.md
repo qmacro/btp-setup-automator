@@ -1,4 +1,4 @@
-# **mobile-app-update** (Mobile App Update)
+# mobile-app-update (Mobile App Update)
 
 Service category: **SERVICE**
 

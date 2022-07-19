@@ -1,4 +1,4 @@
-# **one-mds** (Master Data Integration)
+# one-mds (Master Data Integration)
 
 Service category: **SERVICE**
 

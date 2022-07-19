@@ -1,4 +1,4 @@
-# **custom-domain-manager** (Custom Domain Service)
+# custom-domain-manager (Custom Domain Service)
 
 Service category: **APPLICATION**
 

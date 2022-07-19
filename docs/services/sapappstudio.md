@@ -1,4 +1,4 @@
-# **sapappstudio** (SAP Business Application Studio)
+# sapappstudio (SAP Business Application Studio)
 
 Service category: **APPLICATION**
 

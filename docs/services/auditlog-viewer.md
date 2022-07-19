@@ -1,4 +1,4 @@
-# **auditlog-viewer** (Audit Log Viewer Service)
+# auditlog-viewer (Audit Log Viewer Service)
 
 Service category: **APPLICATION**
 

@@ -1,4 +1,4 @@
-# **xsuaa** (Authorization and Trust Management Service)
+# xsuaa (Authorization and Trust Management Service)
 
 Service category: **SERVICE**
 

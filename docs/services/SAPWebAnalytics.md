@@ -1,4 +1,4 @@
-# **SAPWebAnalytics** (Web Analytics)
+# SAPWebAnalytics (Web Analytics)
 
 Service category: **APPLICATION**
 

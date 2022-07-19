@@ -1,4 +1,4 @@
-# **auditlog-management** (Audit Log Management Service)
+# auditlog-management (Audit Log Management Service)
 
 Service category: **SERVICE**
 

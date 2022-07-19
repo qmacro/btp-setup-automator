@@ -1,4 +1,4 @@
-# **processvisibility** (Process Visibility)
+# processvisibility (Process Visibility)
 
 Service category: **SERVICE**
 

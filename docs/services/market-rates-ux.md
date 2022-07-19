@@ -1,4 +1,4 @@
-# **market-rates-ux** (SAP Market Rates Management)
+# market-rates-ux (SAP Market Rates Management)
 
 Service category: **APPLICATION**
 

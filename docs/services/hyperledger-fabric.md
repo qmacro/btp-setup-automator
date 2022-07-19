@@ -1,4 +1,4 @@
-# **hyperledger-fabric** (Hyperledger Fabric)
+# hyperledger-fabric (Hyperledger Fabric)
 
 Service category: **SERVICE**
 

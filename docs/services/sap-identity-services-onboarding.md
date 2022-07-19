@@ -1,4 +1,4 @@
-# **sap-identity-services-onboarding** (Cloud Identity Services)
+# sap-identity-services-onboarding (Cloud Identity Services)
 
 Service category: **APPLICATION**
 

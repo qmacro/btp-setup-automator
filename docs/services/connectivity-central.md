@@ -1,4 +1,4 @@
-# **connectivity-central** (Connectivity (for scale-out build-out))
+# connectivity-central (Connectivity (for scale-out build-out))
 
 Service category: **SERVICE**
 

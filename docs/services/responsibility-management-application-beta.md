@@ -1,4 +1,4 @@
-# **responsibility-management-application-beta** (Responsibility Management Service)
+# responsibility-management-application-beta (Responsibility Management Service)
 
 Service category: **APPLICATION**
 

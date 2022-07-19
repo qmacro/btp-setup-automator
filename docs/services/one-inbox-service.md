@@ -1,4 +1,4 @@
-# **one-inbox-service** (SAP Task Center)
+# one-inbox-service (SAP Task Center)
 
 Service category: **SERVICE**
 

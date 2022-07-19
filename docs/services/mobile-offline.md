@@ -1,4 +1,4 @@
-# **mobile-offline** (Mobile Offline)
+# mobile-offline (Mobile Offline)
 
 Service category: **SERVICE**
 

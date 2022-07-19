@@ -1,4 +1,4 @@
-# **data-privacy-integration-service** (Data Privacy Integration)
+# data-privacy-integration-service (Data Privacy Integration)
 
 Service category: **SERVICE**
 

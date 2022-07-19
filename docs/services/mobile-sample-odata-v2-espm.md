@@ -1,4 +1,4 @@
-# **mobile-sample-odata-v2-espm** (Mobile Sample OData)
+# mobile-sample-odata-v2-espm (Mobile Sample OData)
 
 Service category: **SERVICE**
 

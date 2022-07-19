@@ -1,4 +1,4 @@
-# **responsibility-management-service-beta** (Responsibility Management Service)
+# responsibility-management-service-beta (Responsibility Management Service)
 
 Service category: **SERVICE**
 

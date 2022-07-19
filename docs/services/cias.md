@@ -1,4 +1,4 @@
-# **cias** (Cloud Integration Automation Service)
+# cias (Cloud Integration Automation Service)
 
 Service category: **APPLICATION**
 

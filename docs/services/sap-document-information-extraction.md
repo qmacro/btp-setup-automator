@@ -1,4 +1,4 @@
-# **sap-document-information-extraction** (Document Information Extraction)
+# sap-document-information-extraction (Document Information Extraction)
 
 Service category: **SERVICE**
 

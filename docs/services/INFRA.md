@@ -1,4 +1,4 @@
-# **INFRA** (Custom Domain Service)
+# INFRA (Custom Domain Service)
 
 Service category: **SERVICE**
 

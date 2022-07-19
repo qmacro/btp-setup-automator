@@ -1,4 +1,4 @@
-# **retention-manager-app** (Data Retention Manager)
+# retention-manager-app (Data Retention Manager)
 
 Service category: **APPLICATION**
 

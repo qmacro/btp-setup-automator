@@ -1,4 +1,4 @@
-# **dateandtime** (Date and Time)
+# dateandtime (Date and Time)
 
 Service category: **SERVICE**
 

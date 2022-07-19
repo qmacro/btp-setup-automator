@@ -1,4 +1,4 @@
-# **enterprise-messaging-hub** (Event Mesh)
+# enterprise-messaging-hub (Event Mesh)
 
 Service category: **APPLICATION**
 

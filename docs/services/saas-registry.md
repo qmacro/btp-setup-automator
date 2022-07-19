@@ -1,4 +1,4 @@
-# **saas-registry** (SaaS Provisioning Service)
+# saas-registry (SaaS Provisioning Service)
 
 Service category: **SERVICE**
 

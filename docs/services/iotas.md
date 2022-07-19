@@ -1,4 +1,4 @@
-# **iotas** (SAP IoT)
+# iotas (SAP IoT)
 
 Service category: **APPLICATION**
 

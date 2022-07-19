@@ -1,4 +1,4 @@
-# **mobile-client-resource** (Mobile Client Resource Service)
+# mobile-client-resource (Mobile Client Resource Service)
 
 Service category: **SERVICE**
 

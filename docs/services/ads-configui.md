@@ -1,4 +1,4 @@
-# **ads-configui** (Forms Service by Adobe)
+# ads-configui (Forms Service by Adobe)
 
 Service category: **APPLICATION**
 

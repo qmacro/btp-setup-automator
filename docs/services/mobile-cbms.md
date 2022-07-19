@@ -1,4 +1,4 @@
-# **mobile-cbms** (Mobile Cloud Build)
+# mobile-cbms (Mobile Cloud Build)
 
 Service category: **SERVICE**
 

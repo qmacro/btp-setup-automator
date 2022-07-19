@@ -1,4 +1,4 @@
-# **COMPUTE_UNIT** (Java Quota)
+# COMPUTE_UNIT (Java Quota)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **abap-solution** (ABAP Solution)
+# abap-solution (ABAP Solution)
 
 Service category: **SERVICE**
 

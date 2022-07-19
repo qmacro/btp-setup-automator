@@ -1,4 +1,4 @@
-# **spatialservices** (SAP HANA spatial services)
+# spatialservices (SAP HANA spatial services)
 
 Service category: **SERVICE**
 

@@ -1,4 +1,4 @@
-# **responsibilitymanagement-application** (Responsibility Management Service)
+# responsibilitymanagement-application (Responsibility Management Service)
 
 Service category: **APPLICATION**
 
