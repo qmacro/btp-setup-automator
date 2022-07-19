@@ -1,0 +1,10 @@
+site_name: Unofficial SAP BTP Service Overview
+repo_url: https://github.com/SAP-samples/btp-setup-automator
+nav:
+  - Home: index.md
+  - "Supported Environments": service-supportedEnvironments.md
+  - "Service Overview":
+      - "Pay as you Go": service-overview.md
+      - "Free Tier": free-tier.md
+theme:
+  name: material
