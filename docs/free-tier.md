@@ -13,6 +13,8 @@ This lists shows all SAP BTP services with a free service plan:
 - [document-translation](services/document-translation.md) (document-translation)
 - [dq-services](services/dq-services.md) (dq-services)
 - [hana-cloud](services/hana-cloud.md) (hana-cloud)
+- [hana-cloud](services/hana-cloud.md) (hana-cloud)
+- [hana-cloud](services/hana-cloud.md) (hana-cloud)
 - [market-rates-byor](services/market-rates-byor.md) (market-rates-byor)
 - [mobile-services](services/mobile-services.md) (mobile-services)
 - [personal-data-manager-service](services/personal-data-manager-service.md) (personal-data-manager-service)
