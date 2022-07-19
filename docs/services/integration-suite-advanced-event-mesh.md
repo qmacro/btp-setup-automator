@@ -1,0 +1,36 @@
+# **integration-suite-advanced-event-mesh** (SAP Integration Suite, advanced event mesh)
+
+Service category: **APPLICATION**
+
+Advanced event mesh for SAP Integration Suite is a complete event streaming, event management, and monitoring platform that incorporates best practices, expertise, and technology for event-driven architecture (EDA) on a single platform.
+
+## Additional details
+
+- [Documentation](https://help.sap.com/docs/SAP_ADVANCED_EVENT_MESH/728c56cd25854f0fad611eb26ae17152/0d4bcd5a2be744688039160b9bb289ae.html)
+
+## Service availability
+
+| Plan name | Display name | Data center availability  |
+|------|----------------|---------------------------|
+|  default  |  default  | eu10 - Europe (Frankfurt)  |
+
+## Sample configuration of **SAP Integration Suite, advanced event mesh** for btp-setup-automator
+
+The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
+
+You can setup a service instance for **integration-suite-advanced-event-mesh** by configuring your `usecase.json` file.
+
+### Using the service plan **default**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "APPLICATION",
+      "name": "integration-suite-advanced-event-mesh",
+      "plan": "default"
+    }
+  ]
+}
+```

@@ -1,0 +1,85 @@
+# **kymaruntime** (Kyma runtime)
+
+Service category: **ENVIRONMENT**
+
+SAP Cloud Platform, Kyma runtime is a fully managed Kubernetes runtime based on the open-source project Kyma. This cloud-native solution allows the developers to extend SAP solutions with serverless Functions and combine them with containerized microservices. The offered functionality ensures smooth consumption of SAP and non-SAP applications, running workloads in a highly scalable environment, and building event- and API-based extensions.
+
+## Additional details
+
+- [Documentation](https://help.sap.com/viewer/3504ec5ef16548778610c7e89cc0eac3/Cloud/en-US/468c2f3c3ca24c2c8497ef9f83154c44.html)
+- [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+
+## Service availability
+
+| Plan name | Display name | Data center availability  |
+|------|----------------|---------------------------|
+|  azure  |  Kyma Runtime Azure  | us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
+|  aws  |  Kyma Runtime AWS  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)<br> br10 - Brazil (Sao Paulo)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> ca10 - Canada (Montreal)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)  |
+|  gcp  |  Kyma Runtime GCP  | us30 - US Central (IA)  |
+|  free  |  free  | ap12 - South Korea (Seoul)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> ca10 - Canada (Montreal)<br> jp10 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+
+## Sample configuration of **Kyma runtime** for btp-setup-automator
+
+The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
+
+You can setup a service instance for **kymaruntime** by configuring your `usecase.json` file.
+
+### Using the service plan **azure** (Kyma Runtime Azure)
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "ENVIRONMENT",
+      "name": "kymaruntime",
+      "plan": "azure"
+    }
+  ]
+}
+```
+
+### Using the service plan **aws** (Kyma Runtime AWS)
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "ENVIRONMENT",
+      "name": "kymaruntime",
+      "plan": "aws"
+    }
+  ]
+}
+```
+
+### Using the service plan **gcp** (Kyma Runtime GCP)
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "ENVIRONMENT",
+      "name": "kymaruntime",
+      "plan": "gcp"
+    }
+  ]
+}
+```
+
+### Using the service plan **free**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "ENVIRONMENT",
+      "name": "kymaruntime",
+      "plan": "free"
+    }
+  ]
+}
+```

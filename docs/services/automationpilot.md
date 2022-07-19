@@ -1,0 +1,54 @@
+# **automationpilot** (Automation Pilot)
+
+Service category: **APPLICATION**
+
+SAP Automation Pilot provides out-of-the-box high-quality automation such as application restarts and reconfigurations, database restarts and updates, application and database health statuses, RCA, recommended actions, and more. Complex DevOps tasks are made simple without the need of having deep SAP Business Technology Platform knowledge. In addition, recommended actions are automated by using the SAP Alert Notification service for SAP BTP (sophisticated integration to immediately react on incoming alerts) or any other alerting system.
+
+## Additional details
+
+- [Documentation](https://help.sap.com/viewer/product/AUTOMATION_PILOT)
+- [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/automation-pilot)
+- [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+
+## Service availability
+
+| Plan name | Display name | Data center availability  |
+|------|----------------|---------------------------|
+|  free  |  free  | us30 - US Central (IA)<br> eu10 - Europe (Frankfurt)<br> jp20 - Japan (Tokyo)<br> ap10 - Australia (Sydney)  |
+|  standard  |  Standard  | ap10 - Australia (Sydney)<br> jp20 - Japan (Tokyo)<br> eu10 - Europe (Frankfurt)<br> us30 - US Central (IA)  |
+
+## Sample configuration of **Automation Pilot** for btp-setup-automator
+
+The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
+
+You can setup a service instance for **automationpilot** by configuring your `usecase.json` file.
+
+### Using the service plan **free**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "APPLICATION",
+      "name": "automationpilot",
+      "plan": "free"
+    }
+  ]
+}
+```
+
+### Using the service plan **standard** (Standard)
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "APPLICATION",
+      "name": "automationpilot",
+      "plan": "standard"
+    }
+  ]
+}
+```

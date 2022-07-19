@@ -1,0 +1,38 @@
+# **destination** (Destination Service)
+
+Service category: **SERVICE**
+
+The Destination service lets you retrieve the backend destination details you need to configure applications in the Cloud Foundry environment.
+
+## Additional details
+
+- [Documentation](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/34010ace6ac84574a4ad02f5055d3597.html)
+- [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/destination)
+- [Support information](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e5580c5dbb5710149e53c6013301a9f2.html)
+
+## Service availability
+
+| Plan name | Display name | Data center availability  |
+|------|----------------|---------------------------|
+|  lite  |  lite  | ch20 - cf-ch20<br> us20 - US West (WA)<br> us10 - US East (VA)<br> us21 - US East (VA)<br> us30 - US Central (IA)<br> ap12 - South Korea (Seoul)<br> ap21 - Singapore<br> ap11 - Singapore<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> eu20 - Europe (Netherlands)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu30 - Europe (Frankfurt)<br> in30 - India (Mumbai)<br> ca10 - Canada (Montreal)<br> br10 - Brazil (Sao Paulo)<br> ap10 - Australia (Sydney)<br> ap20 - Australia (Sydney) Azure  |
+
+## Sample configuration of **Destination Service** for btp-setup-automator
+
+The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
+
+You can setup a service instance for **destination** by configuring your `usecase.json` file.
+
+### Using the service plan **lite**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "destination",
+      "plan": "lite"
+    }
+  ]
+}
+```

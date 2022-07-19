@@ -1,0 +1,38 @@
+# **SAPWebAnalytics** (Web Analytics)
+
+Service category: **APPLICATION**
+
+SAP Web Analytics enables the collection and analysis of website data for understanding and optimizing web usage to measure organizational goals, drive strategy and improve the user's experience.
+
+## Additional details
+
+- [Documentation](https://help.sap.com/viewer/product/SAP_WEB_ANALYTICS/1.0/en-US)
+- [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/web-analytics)
+- [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
+
+## Service availability
+
+| Plan name | Display name | Data center availability  |
+|------|----------------|---------------------------|
+|  standard  |  SAP Web Analytics  | ap21 - Singapore<br> us21 - US East (VA)<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+
+## Sample configuration of **Web Analytics** for btp-setup-automator
+
+The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
+
+You can setup a service instance for **SAPWebAnalytics** by configuring your `usecase.json` file.
+
+### Using the service plan **standard** (SAP Web Analytics)
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "APPLICATION",
+      "name": "SAPWebAnalytics",
+      "plan": "standard"
+    }
+  ]
+}
+```

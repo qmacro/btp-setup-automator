@@ -1,0 +1,105 @@
+# **blockchain-services** (Blockchain Application Enablement)
+
+Service category: **SERVICE**
+
+Deliver blockchain-based services on any connected blockchain network.
+
+## Additional details
+
+- [Documentation](https://help.sap.com/viewer/p/BLOCKCHAIN_APPLICATION_ENABLEMENT/)
+- [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)
+
+## Service availability
+
+| Plan name | Display name | Data center availability  |
+|------|----------------|---------------------------|
+|  blockchain-proof-of-state  |  blockchain-proof-of-state  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  blockchain-proof-of-history  |  blockchain-proof-of-history  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  blockchain-timestamp  |  blockchain-timestamp  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  blockchain-hana-integration  |  Blockchain Services  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+
+## Sample configuration of **Blockchain Application Enablement** for btp-setup-automator
+
+The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
+
+You can setup a service instance for **blockchain-services** by configuring your `usecase.json` file.
+
+### Using the service plan **blockchain-proof-of-state**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "blockchain-services",
+      "plan": "blockchain-proof-of-state", 
+      "parameters" : { 
+        "documentation": "https://help.sap.com/viewer/p/BLOCKCHAIN_APPLICATION_ENABLEMENT",
+        "instructions": "Replace this JSON object with the SERVICE KEY for the blockchain technology to which this service must bind.",
+        "type": "\u003c Used blockchain technology (hyperledger-fabric|multichain|quorum) \u003e"
+      }
+    }
+  ]
+}
+```
+
+### Using the service plan **blockchain-proof-of-history**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "blockchain-services",
+      "plan": "blockchain-proof-of-history", 
+      "parameters" : { 
+        "documentation": "https://help.sap.com/viewer/p/BLOCKCHAIN_APPLICATION_ENABLEMENT",
+        "instructions": "Replace this JSON object with the SERVICE KEY for the blockchain technology to which this service must bind.",
+        "type": "\u003c Used blockchain technology (hyperledger-fabric|multichain|quorum) \u003e"
+      }
+    }
+  ]
+}
+```
+
+### Using the service plan **blockchain-timestamp**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "blockchain-services",
+      "plan": "blockchain-timestamp", 
+      "parameters" : { 
+        "documentation": "https://help.sap.com/viewer/p/BLOCKCHAIN_APPLICATION_ENABLEMENT",
+        "instructions": "Replace this JSON object with the SERVICE KEY for the blockchain technology to which this service must bind.",
+        "type": "\u003c Used blockchain technology (hyperledger-fabric|multichain|quorum) \u003e"
+      }
+    }
+  ]
+}
+```
+
+### Using the service plan **blockchain-hana-integration** (Blockchain Services)
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "blockchain-services",
+      "plan": "blockchain-hana-integration", 
+      "parameters" : { 
+        "documentation": "https://help.sap.com/viewer/p/BLOCKCHAIN_APPLICATION_ENABLEMENT",
+        "instructions": "Replace this JSON object with the SERVICE KEY for the blockchain technology to which this service must bind.",
+        "type": "\u003c Used blockchain technology (hyperledger-fabric|multichain|quorum) \u003e"
+      }
+    }
+  ]
+}
+```

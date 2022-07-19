@@ -1,0 +1,87 @@
+# **multichain** (MultiChain)
+
+Service category: **SERVICE**
+
+The MultiChain service lets you create, delete, monitor and maintain individual MultiChain nodes and connect them to a blockchain network.
+
+## Additional details
+
+- [Documentation](https://help.sap.com/viewer/p/MULTICHAIN/)
+- [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)
+- [Documentation](https://help.sap.com/viewer/p/MULTICHAIN)
+- [Support information](https://support.sap.com)
+
+## Service availability
+
+| Plan name | Display name | Data center availability  |
+|------|----------------|---------------------------|
+|  small  |  small  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  large  |  large  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  medium  |  medium  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  cyon  |  cyon  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+
+## Sample configuration of **MultiChain** for btp-setup-automator
+
+The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
+
+You can setup a service instance for **multichain** by configuring your `usecase.json` file.
+
+### Using the service plan **small**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "multichain",
+      "plan": "small"
+    }
+  ]
+}
+```
+
+### Using the service plan **large**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "multichain",
+      "plan": "large"
+    }
+  ]
+}
+```
+
+### Using the service plan **medium**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "multichain",
+      "plan": "medium"
+    }
+  ]
+}
+```
+
+### Using the service plan **cyon**
+
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "services": [
+    {
+      "category": "SERVICE",
+      "name": "multichain",
+      "plan": "cyon"
+    }
+  ]
+}
+```
