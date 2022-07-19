@@ -16,8 +16,8 @@ The SAP Event Mesh service decouples communication and allows for event-driven b
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
 |  event-mesh-connectivity  |  Event Mesh Connectivity  | eu10 - Europe (Frankfurt)  |
-|  event-mesh-connectivity-beta  |  event-mesh-connectivity-beta  | us20 - US West (WA)<br> eu10 - Europe (Frankfurt)  |
-|  default  |  default  | in30 - India (Mumbai)<br> eu30 - Europe (Frankfurt)<br> us30 - US Central (IA)<br> ap20 - Australia (Sydney) Azure<br> ap12 - South Korea (Seoul)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> ca10 - Canada (Montreal)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> ap11 - Singapore<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  event-mesh-connectivity-beta  |  event-mesh-connectivity-beta  | eu10 - Europe (Frankfurt)<br> us20 - US West (WA)  |
+|  default  |  default  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> ch20 - cf-ch20<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> eu30 - Europe (Frankfurt)<br> in30 - India (Mumbai)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Event Mesh** for btp-setup-automator
 

@@ -14,8 +14,8 @@ The Market Rates Management, Bring Your Own Rates data option allows you to uplo
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  free  |  free  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  free  |  free  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Market Rates, Bring Your Own Rates** for btp-setup-automator
 

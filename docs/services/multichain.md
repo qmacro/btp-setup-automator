@@ -15,10 +15,10 @@ The MultiChain service lets you create, delete, monitor and maintain individual 
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  small  |  small  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  large  |  large  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  medium  |  medium  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  cyon  |  cyon  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  small  |  small  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  large  |  large  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  medium  |  medium  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  cyon  |  cyon  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **MultiChain** for btp-setup-automator
 

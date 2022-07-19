@@ -13,7 +13,7 @@ Check validity and get details of given IBAN number.
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **IBAN Service** for btp-setup-automator
 

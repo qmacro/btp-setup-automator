@@ -13,7 +13,7 @@ SAP Personal Data Manager provides the capability to generate reports showing th
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | ap21 - Singapore<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us21 - US East (VA)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  standard  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap21 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)  |
 
 ## Sample configuration of **Personal Data Manager** for btp-setup-automator
 

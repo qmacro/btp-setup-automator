@@ -13,7 +13,7 @@ Mobile Offline
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Mobile Offline Service enables secure offline access to data on the mobile device  | ap11 - Singapore<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  Mobile Offline Service enables secure offline access to data on the mobile device  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> br10 - Brazil (Sao Paulo)<br> eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Mobile Offline** for btp-setup-automator
 

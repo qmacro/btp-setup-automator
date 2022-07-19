@@ -13,10 +13,10 @@ Deliver blockchain-based services on any connected blockchain network.
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  blockchain-proof-of-state  |  blockchain-proof-of-state  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  blockchain-proof-of-history  |  blockchain-proof-of-history  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  blockchain-timestamp  |  blockchain-timestamp  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  blockchain-hana-integration  |  Blockchain Services  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  blockchain-proof-of-state  |  blockchain-proof-of-state  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  blockchain-proof-of-history  |  blockchain-proof-of-history  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  blockchain-timestamp  |  blockchain-timestamp  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  blockchain-hana-integration  |  Blockchain Services  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Blockchain Application Enablement** for btp-setup-automator
 

@@ -14,7 +14,7 @@ API Management, developer portal service simplifies sharing managed APIs and ena
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  devportal-apiaccess  |  devportal-apiaccess  | us30 - US Central (IA)<br> ap20 - Australia (Sydney) Azure<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu10 - Europe (Frankfurt)<br> ap21 - Singapore<br> us21 - US East (VA)<br> ap10 - Australia (Sydney)<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> ap11 - Singapore<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)  |
+|  devportal-apiaccess  |  devportal-apiaccess  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **API Management, developer portal** for btp-setup-automator
 

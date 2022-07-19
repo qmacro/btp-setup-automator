@@ -13,12 +13,12 @@ The Hyperledger Fabric service on SAP BTP lets you provision a Hyperledger Fabri
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  testnet  |  testnet  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  dev  |  dev  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  backbone  |  backbone  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  cyon  |  cyon  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  node  |  node  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  channel  |  channel  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  testnet  |  testnet  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  dev  |  dev  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  backbone  |  backbone  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  cyon  |  cyon  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  node  |  node  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  channel  |  channel  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Hyperledger Fabric** for btp-setup-automator
 

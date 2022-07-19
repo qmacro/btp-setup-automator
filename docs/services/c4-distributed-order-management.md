@@ -13,7 +13,7 @@ The SAP Order Management foundation solution, including the application and serv
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | eu20 - Europe (Netherlands)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)  |
 
 ## Sample configuration of **SAP Order Management Foundation** for btp-setup-automator
 

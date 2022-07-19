@@ -11,7 +11,7 @@ View and manage Feature Flags Service instances. Get information about flags sta
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  dashboard  |  Dashboard  | ch20 - cf-ch20<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> ap21 - Singapore<br> ap10 - Australia (Sydney)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> us30 - US Central (IA)<br> ca10 - Canada (Montreal)<br> jp10 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> in30 - India (Mumbai)<br> eu30 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> ap20 - Australia (Sydney) Azure  |
+|  dashboard  |  Dashboard  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> ch20 - cf-ch20<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> eu30 - Europe (Frankfurt)<br> in30 - India (Mumbai)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Feature Flags** for btp-setup-automator
 

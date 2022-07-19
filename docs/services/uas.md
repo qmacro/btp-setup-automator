@@ -13,8 +13,8 @@ The Usage Data Management service broker allows you to use the new REST APIs to 
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  reporting-ga-admin  |  reporting-ga-admin  | ap20 - Australia (Sydney) Azure<br> us30 - US Central (IA)<br> us21 - US East (VA)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> jp20 - Japan (Tokyo)<br> jp10 - Japan (Tokyo)<br> eu20 - Europe (Netherlands)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> br10 - Brazil (Sao Paulo)<br> ap21 - Singapore<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)  |
-|  reporting-directory  |  reporting-directory  | us30 - US Central (IA)<br> us21 - US East (VA)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> jp20 - Japan (Tokyo)<br> jp10 - Japan (Tokyo)<br> eu20 - Europe (Netherlands)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> br10 - Brazil (Sao Paulo)<br> ap21 - Singapore<br> ap20 - Australia (Sydney) Azure<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)  |
+|  reporting-ga-admin  |  reporting-ga-admin  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
+|  reporting-directory  |  reporting-directory  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Usage Data Management** for btp-setup-automator
 

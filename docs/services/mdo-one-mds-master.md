@@ -13,7 +13,7 @@ Master data application that allows master data replication according to predete
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Standard  | us10 - US East (VA)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> ap10 - Australia (Sydney)  |
+|  standard  |  Standard  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Master Data Integration (Orchestration)** for btp-setup-automator
 

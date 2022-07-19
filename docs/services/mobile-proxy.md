@@ -13,7 +13,7 @@ Mobile Connectivity Service
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Mobile Connectivity Service is used in the context of a Mobile application to connect to back-ends  | ap11 - Singapore<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  Mobile Connectivity Service is used in the context of a Mobile application to connect to back-ends  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> br10 - Brazil (Sao Paulo)<br> eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Mobile Connectivity Service** for btp-setup-automator
 

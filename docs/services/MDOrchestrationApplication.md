@@ -12,7 +12,7 @@ Master data application for existing customers of SAP Master Data service for bu
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  saas-application  |  Master data application that allows master data replication according to predetermined master data distribution models  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  saas-application  |  Master data application that allows master data replication according to predetermined master data distribution models  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Master Data Orchestration** for btp-setup-automator
 

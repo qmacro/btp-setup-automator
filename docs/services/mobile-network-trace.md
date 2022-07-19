@@ -13,7 +13,7 @@ Mobile Network Trace
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Mobile Network Trace collects network trace information from mobile applications for debugging  | ap11 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  Mobile Network Trace collects network trace information from mobile applications for debugging  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> br10 - Brazil (Sao Paulo)<br> eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Mobile Network Trace** for btp-setup-automator
 

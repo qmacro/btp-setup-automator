@@ -14,8 +14,8 @@ Personalized Recommendation is a generic reusable service. It uses state-of-the-
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  free  |  free  | eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  standard  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)  |
+|  free  |  free  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Personalized Recommendation** for btp-setup-automator
 

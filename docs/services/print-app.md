@@ -12,7 +12,7 @@ Allows you to manage print queue and monitor the print status
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  standard  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
 
 ## Sample configuration of **Print Service** for btp-setup-automator
 

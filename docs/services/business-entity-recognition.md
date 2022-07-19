@@ -14,8 +14,8 @@ Business Entity Recognition helps you to detect and highlight any given type of 
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  free  |  free  | ap10 - Australia (Sydney)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  standard  |  standard  | ap10 - Australia (Sydney)<br> us10 - US East (VA)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> eu10 - Europe (Frankfurt)  |
+|  free  |  free  | ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  standard  |  standard  | ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Business Entity Recognition** for btp-setup-automator
 

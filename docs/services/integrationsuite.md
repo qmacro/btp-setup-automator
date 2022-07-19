@@ -13,9 +13,8 @@ SAP Integration Suite helps you to quickly develop and manage reliable communica
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  free  |  Free  | us30 - US Central (IA)<br> jp20 - Japan (Tokyo)<br> us21 - US East (VA)<br> ap21 - Singapore<br> ap20 - Australia (Sydney) Azure<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> jp10 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> ap12 - South Korea (Seoul)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  enterprise_agreement  |  Enterprise Agreement  | us30 - US Central (IA)<br> ap20 - Australia (Sydney) Azure<br> ap12 - South Korea (Seoul)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> jp10 - Japan (Tokyo)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> ca10 - Canada (Montreal)<br> br10 - Brazil (Sao Paulo)<br> us21 - US East (VA)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)  |
-|  messages  |  Integration Suite Messages  | jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> ca10 - Canada (Montreal)<br> ap11 - Singapore<br> ap21 - Singapore<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> eu20 - Europe (Netherlands)<br> br10 - Brazil (Sao Paulo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> us21 - US East (VA)  |
+|  free  |  Free  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
+|  enterprise_agreement  |  Enterprise Agreement  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Integration Suite** for btp-setup-automator
 
@@ -48,21 +47,6 @@ You can setup a service instance for **integrationsuite** by configuring your `u
       "category": "APPLICATION",
       "name": "integrationsuite",
       "plan": "enterprise_agreement"
-    }
-  ]
-}
-```
-
-### Using the service plan **messages** (Integration Suite Messages)
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "APPLICATION",
-      "name": "integrationsuite",
-      "plan": "messages"
     }
   ]
 }

@@ -12,7 +12,7 @@ The Market Rates Management, Refinitiv data option is a reuse service that allow
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Market Rates, Refinitiv** for btp-setup-automator
 

@@ -13,7 +13,7 @@ Get details of factory calendar such as weekday, holiday, workday for a country.
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Work Calendar** for btp-setup-automator
 

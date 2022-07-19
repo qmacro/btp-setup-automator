@@ -14,7 +14,7 @@ Industrializes the use of third-party data for enterprise applications, and make
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | ap11 - Singapore<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Data Enrichment** for btp-setup-automator
 

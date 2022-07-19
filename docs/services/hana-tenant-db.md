@@ -11,7 +11,7 @@ SAP HANA Tenant Database
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  SAP HANA Tenant Database  | us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
+|  standard  |  SAP HANA Tenant Database  | ap21 - Singapore<br> eu20 - Europe (Netherlands)<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> us21 - US East (VA)  |
 
 ## Sample configuration of **SAP HANA Tenant Database** for btp-setup-automator
 

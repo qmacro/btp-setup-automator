@@ -11,7 +11,7 @@ SAP Business Partner Application
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  saas-application  |  SAP Cloud Platform Master Data Management for business partners  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  saas-application  |  SAP Cloud Platform Master Data Management for business partners  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **SAP Business Partner Application** for btp-setup-automator
 

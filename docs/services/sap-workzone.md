@@ -13,7 +13,7 @@ SAP Work Zone centralizes access to relevant business applications, processes, i
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | eu30 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ap20 - Australia (Sydney) Azure<br> ap12 - South Korea (Seoul)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> eu20 - Europe (Netherlands)<br> ap11 - Singapore<br> jp20 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> ap21 - Singapore<br> us20 - US West (WA)<br> eu10 - Europe (Frankfurt)<br> us10 - US East (VA)<br> us30 - US Central (IA)<br> us21 - US East (VA)<br> ca10 - Canada (Montreal)  |
+|  standard  |  standard  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> eu30 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **SAP Work Zone** for btp-setup-automator
 

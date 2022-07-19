@@ -13,8 +13,8 @@ Mobile Settings Exchange Service
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Mobile Settings Exchange Service is used for device registrations and general access to JSON data  | ap11 - Singapore<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> br10 - Brazil (Sao Paulo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  b2c  |  Mobile Settings Exchange Service is used for device registrations and general access to JSON data  | ap11 - Singapore<br> ap10 - Australia (Sydney)<br> br10 - Brazil (Sao Paulo)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  Mobile Settings Exchange Service is used for device registrations and general access to JSON data  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> br10 - Brazil (Sao Paulo)<br> eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  b2c  |  Mobile Settings Exchange Service is used for device registrations and general access to JSON data  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> br10 - Brazil (Sao Paulo)<br> eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Mobile Settings Exchange Service** for btp-setup-automator
 

@@ -13,7 +13,7 @@ Create an ABAP Environment based SaaS Solution
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Standard  | us10 - US East (VA)<br> jp10 - Japan (Tokyo)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  Standard  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **ABAP Solution** for btp-setup-automator
 

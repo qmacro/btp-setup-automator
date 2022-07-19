@@ -13,11 +13,9 @@ SAP Intelligent Robotic Process Automation lets you automate enterprise business
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  SAP Intelligent Robotic Process Automation  | us10 - US East (VA)<br> jp10 - Japan (Tokyo)<br> ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)  |
-|  free  |  Free  | ap11 - Singapore<br> us10 - US East (VA)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> ap10 - Australia (Sydney)  |
-|  concurrent-attended  |  concurrent-attended  | ap11 - Singapore<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)  |
-|  concurrent  |  Concurrent  | ap11 - Singapore<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> jp10 - Japan (Tokyo)<br> eu10 - Europe (Frankfurt)<br> ap10 - Australia (Sydney)  |
-|  concurrent-unattended  |  concurrent-unattended  | ap11 - Singapore<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  SAP Intelligent Robotic Process Automation  | ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  free  |  Free  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  concurrent  |  Concurrent  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **SAP Intelligent Robotic Process Automation** for btp-setup-automator
 
@@ -55,21 +53,6 @@ You can setup a service instance for **IRPA** by configuring your `usecase.json`
 }
 ```
 
-### Using the service plan **concurrent-attended**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "APPLICATION",
-      "name": "IRPA",
-      "plan": "concurrent-attended"
-    }
-  ]
-}
-```
-
 ### Using the service plan **concurrent** (Concurrent)
 
 ```json
@@ -80,21 +63,6 @@ You can setup a service instance for **IRPA** by configuring your `usecase.json`
       "category": "APPLICATION",
       "name": "IRPA",
       "plan": "concurrent"
-    }
-  ]
-}
-```
-
-### Using the service plan **concurrent-unattended**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "APPLICATION",
-      "name": "IRPA",
-      "plan": "concurrent-unattended"
     }
   ]
 }

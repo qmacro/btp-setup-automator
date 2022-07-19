@@ -15,7 +15,7 @@ SAP Continuous Integration and Delivery lets you configure and run predefined co
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | us20 - US West (WA)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
 
 ## Sample configuration of **Continuous Integration & Delivery** for btp-setup-automator
 

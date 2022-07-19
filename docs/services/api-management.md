@@ -14,7 +14,7 @@ API Management
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  preview  |  Expose your data and processes as APIs for omni-channel consumption and manage the lifecycle of those APIs  | jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  preview  |  Expose your data and processes as APIs for omni-channel consumption and manage the lifecycle of those APIs  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **API Management** for btp-setup-automator
 

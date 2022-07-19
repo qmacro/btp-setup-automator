@@ -15,10 +15,9 @@ Object Store on SAP BTP provisions an object storage space that can be used by a
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  azure-standard  |  azure-standard  | ch20 - cf-ch20<br> ap20 - Australia (Sydney) Azure<br> us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
+|  azure-standard  |  azure-standard  | ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> ch20 - cf-ch20<br> eu20 - Europe (Netherlands)<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> us21 - US East (VA)  |
 |  s3-standard  |  s3-standard  | br10 - Brazil (Sao Paulo)  |
-|  s3-standard  |  s3-standard  | ap12 - South Korea (Seoul)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  gcs-standard  |  gcs-standard  | in30 - India (Mumbai)<br> eu30 - Europe (Frankfurt)<br> us30 - US Central (IA)  |
+|  gcs-standard  |  gcs-standard  | eu30 - Europe (Frankfurt)<br> in30 - India (Mumbai)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Object Store** for btp-setup-automator
 
@@ -36,21 +35,6 @@ You can setup a service instance for **objectstore** by configuring your `usecas
       "category": "SERVICE",
       "name": "objectstore",
       "plan": "azure-standard"
-    }
-  ]
-}
-```
-
-### Using the service plan **s3-standard**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "objectstore",
-      "plan": "s3-standard"
     }
   ]
 }

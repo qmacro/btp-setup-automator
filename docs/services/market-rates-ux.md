@@ -13,8 +13,8 @@ The Manage Market Rates application enables you to read and manage market data y
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  mrtr  |  SAP Market Rates Management  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  mror  |  SAP Market Rates Management  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  mrtr  |  SAP Market Rates Management  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  mror  |  SAP Market Rates Management  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **SAP Market Rates Management** for btp-setup-automator
 

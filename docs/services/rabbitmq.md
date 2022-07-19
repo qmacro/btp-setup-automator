@@ -15,19 +15,11 @@ RabbitMQ on SAP BTP includes a message broker that implements message queues for
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  virtualhost  |  virtualhost  | ap11 - Singapore<br> us20 - US West (WA)<br> ca10 - Canada (Montreal)<br> jp10 - Japan (Tokyo)<br> ap10 - Australia (Sydney)<br> eu20 - Europe (Netherlands)<br> br10 - Brazil (Sao Paulo)<br> us30 - US Central (IA)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  large  |  large  | ch20 - cf-ch20<br> ap20 - Australia (Sydney) Azure<br> us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
-|  xsmall  |  xsmall  | ap12 - South Korea (Seoul)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us30 - US Central (IA)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  medium  |  medium  | ch20 - cf-ch20<br> ap20 - Australia (Sydney) Azure<br> us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
-|  xsmall  |  xsmall  | br10 - Brazil (Sao Paulo)  |
+|  virtualhost  |  virtualhost  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us30 - US Central (IA)  |
+|  large  |  large  | ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> ch20 - cf-ch20<br> eu20 - Europe (Netherlands)<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> us21 - US East (VA)  |
+|  xsmall  |  xsmall  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> us30 - US Central (IA)  |
+|  medium  |  medium  | ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> ch20 - cf-ch20<br> eu20 - Europe (Netherlands)<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> us21 - US East (VA)  |
 |  small  |  small  | br10 - Brazil (Sao Paulo)  |
-|  medium  |  medium  | br10 - Brazil (Sao Paulo)  |
-|  large  |  large  | br10 - Brazil (Sao Paulo)  |
-|  small  |  small  | ap12 - South Korea (Seoul)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us30 - US Central (IA)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  medium  |  medium  | in30 - India (Mumbai)<br> eu30 - Europe (Frankfurt)<br> ap12 - South Korea (Seoul)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us30 - US Central (IA)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  xsmall  |  xsmall  | ch20 - cf-ch20<br> in30 - India (Mumbai)<br> eu30 - Europe (Frankfurt)<br> ap20 - Australia (Sydney) Azure<br> us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
-|  small  |  small  | ch20 - cf-ch20<br> in30 - India (Mumbai)<br> eu30 - Europe (Frankfurt)<br> ap20 - Australia (Sydney) Azure<br> us21 - US East (VA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
-|  large  |  large  | in30 - India (Mumbai)<br> eu30 - Europe (Frankfurt)<br> ap12 - South Korea (Seoul)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ca10 - Canada (Montreal)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us30 - US Central (IA)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
 
 ## Sample configuration of **RabbitMQ** for btp-setup-automator
 
@@ -95,21 +87,6 @@ You can setup a service instance for **rabbitmq** by configuring your `usecase.j
 }
 ```
 
-### Using the service plan **xsmall**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "xsmall"
-    }
-  ]
-}
-```
-
 ### Using the service plan **small**
 
 ```json
@@ -120,111 +97,6 @@ You can setup a service instance for **rabbitmq** by configuring your `usecase.j
       "category": "SERVICE",
       "name": "rabbitmq",
       "plan": "small"
-    }
-  ]
-}
-```
-
-### Using the service plan **medium**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "medium"
-    }
-  ]
-}
-```
-
-### Using the service plan **large**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "large"
-    }
-  ]
-}
-```
-
-### Using the service plan **small**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "small"
-    }
-  ]
-}
-```
-
-### Using the service plan **medium**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "medium"
-    }
-  ]
-}
-```
-
-### Using the service plan **xsmall**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "xsmall"
-    }
-  ]
-}
-```
-
-### Using the service plan **small**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "small"
-    }
-  ]
-}
-```
-
-### Using the service plan **large**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "SERVICE",
-      "name": "rabbitmq",
-      "plan": "large"
     }
   ]
 }

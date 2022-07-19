@@ -12,7 +12,7 @@ API Management technology helps you to share digital assets and enables consumpt
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  API Management-API Portal  | ap11 - Singapore<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> us20 - US West (WA)<br> jp10 - Japan (Tokyo)<br> ca10 - Canada (Montreal)<br> jp20 - Japan (Tokyo)<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ap10 - Australia (Sydney)<br> us21 - US East (VA)<br> eu20 - Europe (Netherlands)  |
+|  standard  |  API Management-API Portal  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)  |
 
 ## Sample configuration of **API Management, API portal** for btp-setup-automator
 

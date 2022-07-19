@@ -15,7 +15,7 @@ SAP Graph is a new unified API for SAP, using modern open standards like OData v
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  free  |  Free  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  free  |  Free  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **SAP Graph** for btp-setup-automator
 

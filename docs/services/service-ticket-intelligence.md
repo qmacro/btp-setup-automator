@@ -15,9 +15,9 @@ With Service Ticket Intelligence, incoming customers service tickets are automat
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  blocks_of_100  |  blocks_of_100  | us10 - US East (VA)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us30 - US Central (IA)<br> eu10 - Europe (Frankfurt)  |
-|  free  |  Free  | us10 - US East (VA)<br> us30 - US Central (IA)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu10 - Europe (Frankfurt)  |
-|  standard  |  standard  | eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> us30 - US Central (IA)<br> eu10 - Europe (Frankfurt)  |
+|  blocks_of_100  |  blocks_of_100  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> us30 - US Central (IA)  |
+|  free  |  Free  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> us30 - US Central (IA)  |
+|  standard  |  standard  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us10 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Service Ticket Intelligence** for btp-setup-automator
 

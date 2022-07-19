@@ -13,7 +13,7 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  Default  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  Default  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Forms Service by Adobe** for btp-setup-automator
 

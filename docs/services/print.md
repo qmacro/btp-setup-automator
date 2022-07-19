@@ -14,8 +14,8 @@ Manage print queues, connect print clients and monitor print status
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  sender  |  sender  | eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  receiver  |  receiver  | eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  sender  |  sender  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
+|  receiver  |  receiver  | eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
 
 ## Sample configuration of **Print Service** for btp-setup-automator
 

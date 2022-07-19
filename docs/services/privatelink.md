@@ -12,7 +12,7 @@ The SAP Private Link service (BETA) establishes a private connection between sel
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | ap21 - Singapore<br> ap20 - Australia (Sydney) Azure<br> jp20 - Japan (Tokyo)<br> us21 - US East (VA)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)  |
+|  standard  |  standard  | ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> eu20 - Europe (Netherlands)<br> jp20 - Japan (Tokyo)<br> us20 - US West (WA)<br> us21 - US East (VA)  |
 
 ## Sample configuration of **Private Link Service** for btp-setup-automator
 

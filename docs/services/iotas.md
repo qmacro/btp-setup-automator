@@ -12,8 +12,8 @@ SAP IoT business services allow you to put raw sensor data into business object 
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Leonardo IoT  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  oneproduct  |  oneproduct  | us20 - US West (WA)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)  |
+|  standard  |  Leonardo IoT  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  oneproduct  |  oneproduct  | eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
 
 ## Sample configuration of **SAP IoT** for btp-setup-automator
 

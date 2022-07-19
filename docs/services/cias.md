@@ -13,29 +13,13 @@ Cloud Integration Automation service provides you a guided workflow to integrate
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  oauth2  |  oauth2  | eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> ap10 - Australia (Sydney)  |
-|  standard  |  standard  | eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)<br> ap10 - Australia (Sydney)  |
+|  standard  |  standard  | ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Cloud Integration Automation Service** for btp-setup-automator
 
 The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) helps you setting up your SAP BTP account for a specific use case. Each use case is defined inside a `usecase.json` file listing all the services necessary to cover that use case. You can find a list of released use cases in the [usecase folder of bpt-setup-automator](https://github.com/SAP-samples/btp-setup-automator/tree/main/usecases).
 
 You can setup a service instance for **cias** by configuring your `usecase.json` file.
-
-### Using the service plan **oauth2**
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
-  "services": [
-    {
-      "category": "APPLICATION",
-      "name": "cias",
-      "plan": "oauth2"
-    }
-  ]
-}
-```
 
 ### Using the service plan **standard**
 

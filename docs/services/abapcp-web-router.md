@@ -12,7 +12,7 @@ Get web access to your instances in the ABAP Environment including access to adm
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  Web Access for ABAP Environment  | jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  Web Access for ABAP Environment  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Web access for ABAP** for btp-setup-automator
 

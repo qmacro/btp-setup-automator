@@ -14,8 +14,8 @@ Provides an API that allows you to translate documents of various formats into m
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  Default  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  free  |  Free  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  Default  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  free  |  Free  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Document Translation** for btp-setup-automator
 

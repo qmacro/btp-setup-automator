@@ -12,7 +12,7 @@ Provides Business Partner data from third-party data providers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  saas-application  |  Data Enrichment  | ap11 - Singapore<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  saas-application  |  Data Enrichment  | ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Data Enrichment** for btp-setup-automator
 

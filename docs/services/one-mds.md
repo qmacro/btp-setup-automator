@@ -13,8 +13,8 @@ SAP Business Technology Platform Master Data Integration service offers master d
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  sap-integration  |  sap-integration  | ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  s4hana-onpremise  |  s4hana-onpremise  | ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  sap-integration  |  sap-integration  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  s4hana-onpremise  |  s4hana-onpremise  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Master Data Integration** for btp-setup-automator
 

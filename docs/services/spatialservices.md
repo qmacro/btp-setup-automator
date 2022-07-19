@@ -15,7 +15,7 @@ SAP HANA spatial services provides a unified access layer for location-based ser
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
 |  standard  |  standard  | eu10 - Europe (Frankfurt)  |
-|  lite  |  lite  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  lite  |  lite  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **SAP HANA spatial services** for btp-setup-automator
 

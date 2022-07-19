@@ -12,7 +12,7 @@ SAP Business Partner Service
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  SAP Cloud Platform Master Data Management for business partners  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  SAP Cloud Platform Master Data Management for business partners  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **SAP Business Partner Service** for btp-setup-automator
 

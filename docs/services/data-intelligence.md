@@ -14,9 +14,9 @@ SAP Data Intelligence is the all-in-one data orchestration solution to discover,
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  enterprise  |  enterprise  | ap11 - Singapore<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  dedicated  |  Dedicated  | ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)  |
-|  tenant  |  Tenant  | ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> us20 - US West (WA)<br> us10 - US East (VA)<br> ap10 - Australia (Sydney)<br> jp10 - Japan (Tokyo)  |
+|  enterprise  |  enterprise  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
+|  dedicated  |  Dedicated  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
+|  tenant  |  Tenant  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)  |
 
 ## Sample configuration of **SAP Data Intelligence** for btp-setup-automator
 

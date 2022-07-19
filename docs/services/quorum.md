@@ -13,9 +13,9 @@ The Quorum service lets you create, delete, monitor and maintain individual Quor
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  cyon  |  cyon  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  testnet  |  testnet  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  dev  |  dev  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  cyon  |  cyon  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  testnet  |  testnet  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  dev  |  dev  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Quorum** for btp-setup-automator
 

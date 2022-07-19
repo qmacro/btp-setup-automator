@@ -11,8 +11,8 @@ SAP Edge Services
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  Enterprise  |  SAP Edge Services  | us20 - US West (WA)<br> eu10 - Europe (Frankfurt)  |
-|  Standard  |  SAP Edge Services Cloud Standard Edition  | eu20 - Europe (Netherlands)<br> eu10 - Europe (Frankfurt)  |
+|  Enterprise  |  SAP Edge Services  | eu10 - Europe (Frankfurt)<br> us20 - US West (WA)  |
+|  Standard  |  SAP Edge Services Cloud Standard Edition  | eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)  |
 
 ## Sample configuration of **SAP Edge Services** for btp-setup-automator
 

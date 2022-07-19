@@ -15,8 +15,8 @@ Data Attribute Recommendation uses free text, numbers and categories as input to
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  free  |  free  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  standard  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
+|  free  |  free  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Data Attribute Recommendation** for btp-setup-automator
 

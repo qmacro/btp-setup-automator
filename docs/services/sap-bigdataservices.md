@@ -11,7 +11,7 @@ Big Data Services
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  Big Data Services  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  Big Data Services  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Big Data Services** for btp-setup-automator
 

@@ -15,7 +15,7 @@ The SAP Cloud Platform Internet of Things service for the Cloud Foundry environm
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  standard  |  standard  | eu10 - Europe (Frankfurt)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **Internet of Things** for btp-setup-automator
 

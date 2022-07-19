@@ -16,11 +16,11 @@ Access an instance to build custom ABAP cloud apps, leveraging newest innovation
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  abap_compute_unit  |  16 GB ABAP Compute Unit  | jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  hana_compute_unit  |  16 GB HANA Compute Unit  | jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  16_abap_64_db  |  16_abap_64_db  | jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
-|  free  |  free  | us10 - US East (VA)<br> jp10 - Japan (Tokyo)<br> eu10 - Europe (Frankfurt)  |
-|  standard  |  standard  | jp10 - Japan (Tokyo)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  abap_compute_unit  |  16 GB ABAP Compute Unit  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  hana_compute_unit  |  16 GB HANA Compute Unit  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  16_abap_64_db  |  16_abap_64_db  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  free  |  free  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  standard  |  standard  | eu10 - Europe (Frankfurt)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **ABAP environment** for btp-setup-automator
 

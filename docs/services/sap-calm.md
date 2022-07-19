@@ -13,7 +13,7 @@ This is memory extension for SAP Cloud ALM.
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  default  |  default  | eu20 - Europe (Netherlands)<br> eu10 - Europe (Frankfurt)  |
+|  default  |  default  | eu10 - Europe (Frankfurt)<br> eu20 - Europe (Netherlands)  |
 
 ## Sample configuration of **SAP Cloud ALM, memory extension** for btp-setup-automator
 

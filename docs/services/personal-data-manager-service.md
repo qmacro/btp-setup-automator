@@ -15,8 +15,8 @@ SAP Personal Data Manager provides the capability to generate reports showing th
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  free  |  free  | us30 - US Central (IA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> us20 - US West (WA)<br> us10 - US East (VA)<br> eu20 - Europe (Netherlands)<br> eu10 - Europe (Frankfurt)<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us21 - US East (VA)  |
-|  standard  |  standard  | us30 - US Central (IA)<br> ap21 - Singapore<br> jp20 - Japan (Tokyo)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> ap11 - Singapore<br> ap10 - Australia (Sydney)<br> us21 - US East (VA)<br> us20 - US West (WA)<br> eu20 - Europe (Netherlands)<br> us10 - US East (VA)<br> eu10 - Europe (Frankfurt)  |
+|  free  |  free  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap21 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
+|  standard  |  standard  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap21 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Personal Data Manager** for btp-setup-automator
 

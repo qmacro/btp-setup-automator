@@ -14,8 +14,8 @@ SAP Automation Pilot provides out-of-the-box high-quality automation such as app
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  free  |  free  | us30 - US Central (IA)<br> eu10 - Europe (Frankfurt)<br> jp20 - Japan (Tokyo)<br> ap10 - Australia (Sydney)  |
-|  standard  |  Standard  | ap10 - Australia (Sydney)<br> jp20 - Japan (Tokyo)<br> eu10 - Europe (Frankfurt)<br> us30 - US Central (IA)  |
+|  free  |  free  | ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)<br> jp20 - Japan (Tokyo)<br> us30 - US Central (IA)  |
+|  standard  |  Standard  | ap10 - Australia (Sydney)<br> eu10 - Europe (Frankfurt)<br> jp20 - Japan (Tokyo)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Automation Pilot** for btp-setup-automator
 
