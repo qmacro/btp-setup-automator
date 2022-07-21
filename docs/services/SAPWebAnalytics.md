@@ -4,7 +4,7 @@ SAP Web Analytics enables the collection and analysis of website data for unders
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_WEB_ANALYTICS/1.0/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/web-analytics)

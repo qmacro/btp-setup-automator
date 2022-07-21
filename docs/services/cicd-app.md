@@ -4,7 +4,7 @@ SAP Continuous Integration and Delivery lets you configure and run predefined co
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/docs/CONTINUOUS_DELIVERY?version=Cloud)
 - [Support](https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/6e10ad426e434180a0c62d4e7b6115bc.html)

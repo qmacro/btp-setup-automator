@@ -4,7 +4,7 @@ Intelligent Situation Automation is an extension of Situation Handling. It proce
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/viewer/product/INTELLIGENT_SITUATION_AUT/1.0/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/intelligent-situation-automation)

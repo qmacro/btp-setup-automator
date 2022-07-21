@@ -4,7 +4,7 @@ Advanced event mesh for SAP Integration Suite is a complete event streaming, eve
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/docs/SAP_ADVANCED_EVENT_MESH/728c56cd25854f0fad611eb26ae17152/0d4bcd5a2be744688039160b9bb289ae.html)
 

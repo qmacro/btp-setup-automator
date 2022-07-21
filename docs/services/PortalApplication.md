@@ -4,7 +4,7 @@ SAP Cloud Portal service lets you build digital experience portals for employees
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/viewer/product/Portal_Service/1.0/en-US)
 

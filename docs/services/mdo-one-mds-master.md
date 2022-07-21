@@ -4,7 +4,7 @@ Master data application that allows master data replication according to predete
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/viewer/product/DRAFT/SAP_CLOUD_PLATFORM_MASTER_DATA_INTEGRATION/CLOUD/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/master-data-integration)

@@ -4,7 +4,7 @@ SAP Business Partner Application
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 
 ## Service availability in data centers

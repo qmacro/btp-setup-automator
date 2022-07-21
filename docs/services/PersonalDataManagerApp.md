@@ -4,7 +4,7 @@ SAP Personal Data Manager provides the capability to generate reports showing th
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/viewer/product/PERSONAL_DATA_MANAGER/SHIP/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/personal-data-manager)

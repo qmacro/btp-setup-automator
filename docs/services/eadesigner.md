@@ -4,7 +4,7 @@ SAP Enterprise Architecture Designer, Cloud Edition (SAP EA Designer) lets you c
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/viewer/product/EAD_CLOUD/Cloud/en-US)
 

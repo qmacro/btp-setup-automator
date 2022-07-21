@@ -4,7 +4,7 @@ The SAP Ariba Shopping mobile app enables casual employees to easily search and 
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 
 ## Service availability in data centers

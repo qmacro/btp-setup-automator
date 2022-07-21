@@ -4,7 +4,7 @@ SAP Business Application Studio is the next generation of SAP Web IDE, offering 
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: N, /, A
+
 
 - [Documentation](https://help.sap.com/viewer/product/SAP%20Business%20Application%20Studio/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/business-application-studio)
