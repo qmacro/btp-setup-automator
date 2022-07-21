@@ -4,7 +4,7 @@ Access an instance to build custom ABAP cloud apps, leveraging newest innovation
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/3504ec5ef16548778610c7e89cc0eac3/Cloud/en-US/11d62652aa2b4600a0fa136de0789648.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/abap-environment)

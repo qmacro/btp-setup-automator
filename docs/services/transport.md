@@ -4,7 +4,7 @@ SAP Cloud Transport Management service lets you manage software deliverables bet
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: cloudfoundry, kymaruntime
 
 - [Documentation](https://help.sap.com/viewer/p/TRANSPORT_MANAGEMENT_SERVICE)
 - [Buy Now](https://www.sapstore.com/solutions/40168/SAP-Cloud-Platform-Transport-Management)

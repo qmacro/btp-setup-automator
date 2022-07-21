@@ -4,7 +4,7 @@ The SAP Cloud Platform Internet of Things service for the Cloud Foundry environm
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_CP_IOT_CF/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-iot)

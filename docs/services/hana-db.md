@@ -4,7 +4,7 @@ The SAP HANA service allows you to leverage the in-memory data processing capabi
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/product/HANA_SERVICE/Cloud/en-US)
 - [Documentation](https://help.sap.com/viewer/cc53ad464a57404b8d453bbadbc81ceb/Cloud/en-US/7cc0278fa13c4124bfe6af2ae5b59642.html)

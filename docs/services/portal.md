@@ -4,7 +4,7 @@ SAP Cloud Platform Portal lets you build digital experience portals for employee
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/product/Portal_Service/latest/en-US)
 - [Documentation](https://help.sap.com/viewer/ad4b9f0b14b0458cad9bd27bf435637d/Cloud/en-US/5798687972fd4c2bace31c65b47f5587.html)
