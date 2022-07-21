@@ -1,7 +1,7 @@
 # Supported services per SAP BTP environment
 
 | Service | cloudfoundry | kymaruntime | sapbtp | tbd | sapcp | 
-| - |- | - | - | - | - | 
+| - | - | - | - | - | - | 
 | [abap](services/abap.md) (ABAP environment) |  X  | | | | |
 | [abap-solution](services/abap-solution.md) (ABAP Solution) |  X  | | | | |
 | [ads](services/ads.md) (Forms Service by Adobe) |  X  | X  | X  | | |
