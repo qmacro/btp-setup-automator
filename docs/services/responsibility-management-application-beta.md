@@ -4,7 +4,7 @@ Provides APIs for DetermineAgents using responsibility rules or external APIs(br
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/product/DRAFT/RESPONSIBILITY_MANAGEMENT/1.0/en-US)
 

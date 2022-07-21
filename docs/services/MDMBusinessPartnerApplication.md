@@ -4,7 +4,7 @@ SAP Business Partner Application
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 
 ## Service availability in data centers

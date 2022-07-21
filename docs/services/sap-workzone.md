@@ -4,7 +4,7 @@ SAP Work Zone centralizes access to relevant business applications, processes, i
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/product/WZ/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-work-zone)

@@ -4,7 +4,7 @@ Document Classification helps you to automate the management and processing of l
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/dc)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/document-classification)

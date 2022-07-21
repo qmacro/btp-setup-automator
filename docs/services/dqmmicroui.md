@@ -4,7 +4,7 @@ Manage settings and field mappings using configurations. View number of transact
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/d95546360fea44988eb614718ff7e959/Cloud/en-US/8bb7b22e6d4c40b5bfdaef86f59e2036.html)
 - [License Terms](https://www.sap.com/about/trust-center/agreements/on-premise/product-use-and-support-terms.html?tag=agreements:product-use-support-terms/on-premise-software/software-use-rights/)

@@ -4,7 +4,7 @@ Intelligent Intercompany Reconciliation is introduced to speed up your intercomp
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/0fa84c9d9c634132b7c4abb9ffdd8f06/2108.501/en-US/b0b3b968f7c943c88ebc6e94d114564e.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/)

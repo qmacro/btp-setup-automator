@@ -4,7 +4,7 @@ Master data application that allows master data replication according to predete
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/product/DRAFT/SAP_CLOUD_PLATFORM_MASTER_DATA_INTEGRATION/CLOUD/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/master-data-integration)

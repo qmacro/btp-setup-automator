@@ -4,7 +4,7 @@ SAP Work Zone centralizes access to relevant business applications, processes, i
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/product/WZ/Cloud/en-US)
 

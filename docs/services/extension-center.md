@@ -4,7 +4,7 @@ Allows you to create, manage, configure extensions on SAP Cloud Platform
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/product/XF_SERVERLESS_RUNTIME/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/serverless-runtime)

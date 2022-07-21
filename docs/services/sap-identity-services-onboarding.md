@@ -4,7 +4,7 @@ Cloud Identity Services provide basic capabilities for user authentication.
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/p/IDENTITY_AUTHENTICATION)
 

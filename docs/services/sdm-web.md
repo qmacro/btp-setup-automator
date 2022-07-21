@@ -4,7 +4,7 @@ Benefit from the standalone, ready-to-use web application of SAP Document Manage
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: tbd
 
 - [Documentation](https://help.sap.com/viewer/p/DOCUMENT_MANAGEMENT)
 

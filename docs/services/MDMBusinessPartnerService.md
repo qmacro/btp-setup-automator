@@ -4,7 +4,7 @@ SAP Business Partner Service
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapcp
+- Supported environments: tbd
 
 - [Documentation](https://sap.com)
 
