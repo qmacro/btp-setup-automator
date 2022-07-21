@@ -1,15 +1,15 @@
 # responsibilitymanagement-service (Responsibility Management Service)
 
-Service category: **SERVICE**
-
 As we move toward an intelligent enterprise, intelligent systems need to determine agents who are responsible for business processes and objects, and automatically notify them. It is essential to define and manage these responsibilities for various contexts and retrieve responsible agents who can respond to tasks and activities.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/RESPONSIBILITY_MANAGEMENT_SCP/SHIP/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/responsibility-management-service)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

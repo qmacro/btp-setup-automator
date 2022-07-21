@@ -1,13 +1,13 @@
 # spatialservices-app (HANA Spatial Services)
 
-Service category: **APPLICATION**
-
 HANA Spatial Services
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

@@ -1,16 +1,16 @@
 # dataenrichment-business-partner (Data Enrichment)
 
-Service category: **SERVICE**
-
 Industrializes the use of third-party data for enterprise applications, and makes it economical to find, procure and consume relevant datasets in timely fashion. Offers pre-built integrations with SAP S/4HANA Cloud and on-premise, and SAP Master Data Governance. Centrally links data from external data providers such as Dun & Bradstreet and CDQ into SAP enterprise applications, reducing overall TCO for data brokerage needs. Data Enrichment will be a one stop shop for multiple data augmentation needs.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/Cloud_Platform_Data_Enrichment/latest/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/data-enrichment)
 - [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

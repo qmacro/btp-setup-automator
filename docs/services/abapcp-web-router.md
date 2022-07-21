@@ -1,14 +1,14 @@
 # abapcp-web-router (Web access for ABAP)
 
-Service category: **APPLICATION**
-
 Get web access to your instances in the ABAP Environment including access to administrative UIs 
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/98928b0941294c74b946cdcefca9b047.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

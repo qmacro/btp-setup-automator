@@ -1,16 +1,16 @@
 # sap-analytics-cloud-embedded-edition (SAP Analytics Cloud, embedded edition)
 
-Service category: **SERVICE**
-
 With SAP Analytics Cloud, embedded edition, you can build and embed reports, dashboards, and visuals into your business application to make confident decisions. Explore your business data via live connection between your SAP Analytics Cloud tenant and the remote SAP HANA database on SAP Cloud Platform.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/SAC_EMBEDDED_EDITION/1.0/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-analytics-cloud-embedded-edition)
 - [Support information](https://help.sap.com/viewer/7466893ec68641198fc189757dc5f7a6/1.0/en-US/ce081403aaf14feca286d7d0b4af2b86.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

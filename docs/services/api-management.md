@@ -1,16 +1,16 @@
 # api-management (API Management)
 
-Service category: **SERVICE**
-
 API Management
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_API_MANAGEMENT/Cloud/en-US)
 - [Documentation](https://help.hana.ondemand.com/apim_od/frameset.htm)
 - [Support information](https://www.sap.com/india/products/api-management.html#support)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

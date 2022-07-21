@@ -1,16 +1,16 @@
 # iotae (SAP IoT)
 
-Service category: **SERVICE**
-
 SAP IoT business services allow you to put raw sensor data into business object context and then use query models, rules, events and actions to leverage the data near real-time in analytical or transactional business applications.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_Leonardo_IoT)
 - [Documentation](https://help.sap.com/viewer/p/SAP_IoT)
 - [Support information](https://answers.sap.com/tags/73554900100800002247)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

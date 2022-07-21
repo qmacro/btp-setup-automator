@@ -1,13 +1,13 @@
 # sap-ariba-shopping (SAP Ariba Shopping)
 
-Service category: **APPLICATION**
-
 The SAP Ariba Shopping mobile app enables casual employees to easily search and purchase products.
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

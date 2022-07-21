@@ -1,16 +1,16 @@
 # auditlog-management (Audit Log Management Service)
 
-Service category: **SERVICE**
-
 SAP Audit Log Management service helps to retrieve logs and change retention.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/f92c86ab11f6474ea5579d839051c334.html)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service)
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/30ece35bac024ca69de8b16bff79c413.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

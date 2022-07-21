@@ -1,14 +1,14 @@
 # sap-identity-services-onboarding (Cloud Identity Services)
 
-Service category: **APPLICATION**
-
 Cloud Identity Services provide basic capabilities for user authentication.
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/p/IDENTITY_AUTHENTICATION)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

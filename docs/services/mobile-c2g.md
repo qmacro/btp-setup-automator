@@ -1,15 +1,15 @@
 # mobile-c2g (Mobile Content)
 
-Service category: **SERVICE**
-
 Mobile Content
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/468990a67780424a9e66eb096d4345bb/Cloud/en-US/6c3834f4af454a21babc4e0600defe06.html)
 - [Support information](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

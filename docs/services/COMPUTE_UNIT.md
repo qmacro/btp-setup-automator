@@ -1,14 +1,14 @@
 # COMPUTE_UNIT (Java Quota)
 
-Service category: **SERVICE**
-
 Java Quota
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/VIRTUAL_MACHINES/Cloud/en-US)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

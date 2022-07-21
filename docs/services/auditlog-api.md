@@ -1,15 +1,15 @@
 # auditlog-api (Audit Log Service API)
 
-Service category: **SERVICE**
-
 SAP Audit Log service API
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/f92c86ab11f6474ea5579d839051c334.html)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

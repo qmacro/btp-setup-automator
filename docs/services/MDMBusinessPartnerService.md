@@ -1,14 +1,14 @@
 # MDMBusinessPartnerService (SAP Business Partner Service)
 
-Service category: **SERVICE**
-
 SAP Business Partner Service
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapcp**
 
 - [Documentation](https://sap.com)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

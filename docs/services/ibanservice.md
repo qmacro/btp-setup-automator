@@ -1,15 +1,15 @@
 # ibanservice (IBAN Service)
 
-Service category: **SERVICE**
-
 Check validity and get details of given IBAN number.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**
 
 - [Documentation](https://help.sap.com/docs/IBAN_SERVICE)
 - [Discovery Center]( https://discovery-center.cloud.sap/serviceCatalog/iban-service)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

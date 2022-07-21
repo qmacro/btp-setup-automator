@@ -1,14 +1,14 @@
 # enterprise-messaging-hub (Event Mesh)
 
-Service category: **APPLICATION**
-
 The SAP Event Mesh service decouples communication and allows for event-driven business processes.
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_ENTERPRISE_MESSAGING/Cloud/en-US)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

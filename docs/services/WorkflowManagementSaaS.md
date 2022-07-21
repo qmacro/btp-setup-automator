@@ -1,15 +1,15 @@
 # WorkflowManagementSaaS (Workflow Management)
 
-Service category: **APPLICATION**
-
 Digitize workflows, manage decisions and gain end-to-end process visibility
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/WORKFLOW_MANAGEMENT/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/workflow-management)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

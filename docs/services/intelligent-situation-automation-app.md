@@ -1,15 +1,15 @@
 # intelligent-situation-automation-app (Intelligent Situation Automation)
 
-Service category: **APPLICATION**
-
 Intelligent Situation Automation is an extension of Situation Handling. It processes situations raised and resolves them automatically using business rules, thus reducing the time users spend on routine manual and repetitive tasks.
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/INTELLIGENT_SITUATION_AUT/1.0/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/intelligent-situation-automation)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

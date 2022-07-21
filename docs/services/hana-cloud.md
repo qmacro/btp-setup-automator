@@ -1,17 +1,17 @@
 # hana-cloud (SAP HANA Cloud)
 
-Service category: **SERVICE**
-
 SAP HANA Cloud provides a single place to access, store, and process all enterprise data in real time. It is a cloud-native platform that reduces the complexity of multi-cloud or hybrid system landscapes. SAP HANA Cloud provides all of the advanced SAP HANA technologies for multi-model data processing in-memory or on disk. You can benefit from cloud qualities such as automatic software updates, elasticity, and low total cost of ownership by using SAP HANA Cloud either as a stand-alone solution or as an extension to your existing on-premise environment.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/p/HANA_CLOUD)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud)
 - [Support](https://help.sap.com/viewer/db19c7071e5f4101837e23f06e576495/cloud/en-US/4f8dabb4d8214d5d93b98dd5f2ad76c9.html)
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

@@ -1,13 +1,13 @@
 # MDMBusinessPartnerApplication (SAP Business Partner Application)
 
-Service category: **APPLICATION**
-
 SAP Business Partner Application
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

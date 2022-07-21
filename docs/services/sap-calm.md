@@ -1,15 +1,15 @@
 # sap-calm (SAP Cloud ALM, memory extension)
 
-Service category: **SERVICE**
-
 This is memory extension for SAP Cloud ALM.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://support.sap.com/en/alm/sap-cloud-alm.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-cloud-alm-memory-extension)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

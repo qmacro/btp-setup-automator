@@ -1,13 +1,13 @@
 # sap-bigdataservices (Big Data Services)
 
-Service category: **SERVICE**
-
 Big Data Services
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

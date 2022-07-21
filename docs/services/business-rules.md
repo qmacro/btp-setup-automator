@@ -1,15 +1,15 @@
 # business-rules (Business Rules)
 
-Service category: **SERVICE**
-
 SAP Business Rules service translates business-decision logic into natural language that is configurable directly by line-of-business key users or knowledge experts without IT or developer intervention. It provides web-based tools to solution architects and developers, enabling them to model, author, and simulate business rules independent of the backend system.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/BUSINESS_RULES/Cloud/en-US)
 - [Documentation](https://cloudplatform.sap.com/capabilities/integration/business-rules.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

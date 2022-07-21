@@ -1,10 +1,10 @@
 # alert-notification (Alert Notification)
 
-Service category: **SERVICE**
-
 SAP Cloud Platform Alert Notification offers a common API for providers to publish alerts and for consumers to subscribe to these alerts. It is designed to send automatically real-time notifications and alerts about SAP Cloud events that may be of interest to the business and operations.<br/><br/>SAP does not support EU Access for this service. By activating the service, you are accepting this limitation.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [SAP Cloud Platform Alert Notification @SAP Help Portal](https://help.sap.com/viewer/p/ALERT_NOTIFICATION)
 - [SAP Cloud Platform Alert Notification @SAP Cloud Platform Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/alert-notification)
@@ -12,7 +12,7 @@ SAP Cloud Platform Alert Notification offers a common API for providers to publi
 - [SAP Cloud Platform Alert Notification @SAP API Business Hub](https://api.sap.com/package/AlertNotification?section=Artifacts)
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

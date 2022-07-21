@@ -1,15 +1,15 @@
 # market-rates-ux (SAP Market Rates Management)
 
-Service category: **APPLICATION**
-
 The Manage Market Rates application enables you to read and manage market data you have uploaded by using the data options available with the SAP Market Rates Management service
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_CP_BUS_REUSE_SERVICE_MRM_TR)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/market-rates-refinitiv)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

@@ -1,10 +1,10 @@
 # credstore (Credential Store)
 
-Service category: **SERVICE**
-
 The Credential Store provides a secure repository for passwords and keys to applications that are running on SAP Cloud Platform. It enables the applications to retrieve credentials and use them for authentication to external services, or to perform cryptographic operations and TLS communication. 
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/CREDENTIAL_STORE/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/credential-store)
@@ -12,7 +12,7 @@ The Credential Store provides a secure repository for passwords and keys to appl
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
 - [Documentation](https://help.sap.com/viewer/601525c6e5604e4192451d5e7328fa3c/Cloud/en-US/ad63368e8e6f44a1b3ac336e8d1c32b8.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

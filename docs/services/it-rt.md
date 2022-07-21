@@ -1,15 +1,15 @@
 # it-rt (Process Integration Runtime)
 
-Service category: **SERVICE**
-
 Provides access to SAP Cloud Platform Integration runtime (integration flows) and APIs.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://cloudintegration.hana.ondemand.com/PI/help)
 - [Support](https://cloudintegration.hana.ondemand.com/PI/help)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

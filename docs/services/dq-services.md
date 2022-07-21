@@ -1,17 +1,17 @@
 # dq-services (Data Quality Services)
 
-Service category: **SERVICE**
-
 SAP Data Quality Management offers cloud-based services that let you embed address cleansing, geocoding, and reverse geocoding within any business process orapplication,so that you can reap the value of complete and accurate address data.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [$18n{applicationCoordinates.serviceDescription.title_documentation}](https://help.sap.com/viewer/d95546360fea44988eb614718ff7e959/Cloud/en-US)
 - [License Terms](https://www.sap.com/about/trust-center/agreements/on-premise/product-use-and-support-terms.html?tag=agreements:product-use-support-terms/on-premise-software/software-use-rights/)
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-data-quality-management)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

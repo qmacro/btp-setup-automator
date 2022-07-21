@@ -1,15 +1,15 @@
 # intercompany-reconciliation (Intelligent Intercompany Reconciliation)
 
-Service category: **SERVICE**
-
 Intelligent Intercompany Reconciliation is introduced to speed up your intercompany reconciliation process from company close to corporate close. The service is based on Artificial Intelligence in order to reconcile your financial data with high accuracy.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/0fa84c9d9c634132b7c4abb9ffdd8f06/2108.501/en-US/b0b3b968f7c943c88ebc6e94d114564e.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

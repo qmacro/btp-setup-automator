@@ -1,15 +1,15 @@
 # scp-launchpad (Launchpad Service)
 
-Service category: **SERVICE**
-
 SAP Launchpad service provides users with a central point of access to applications from different sources.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**
 
 - [Documentation](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US)
 - [Documentation](https://help.sap.com/viewer/product/Launchpad_Service/Cloud/en-US)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

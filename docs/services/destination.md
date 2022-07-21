@@ -1,16 +1,16 @@
 # destination (Destination Service)
 
-Service category: **SERVICE**
-
 The Destination service lets you retrieve the backend destination details you need to configure applications in the Cloud Foundry environment.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/34010ace6ac84574a4ad02f5055d3597.html)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/destination)
 - [Support information](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e5580c5dbb5710149e53c6013301a9f2.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

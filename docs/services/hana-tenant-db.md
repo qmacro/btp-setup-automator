@@ -1,13 +1,13 @@
 # hana-tenant-db (SAP HANA Tenant Database)
 
-Service category: **SERVICE**
-
 SAP HANA Tenant Database
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

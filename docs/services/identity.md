@@ -1,15 +1,15 @@
 # identity (Cloud Identity Services)
 
-Service category: **SERVICE**
-
 Cloud Identity Services provide basic capabilities for user authentication.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/p/IDENTITY_PROVISIONING)
 - [Documentation](https://help.sap.com/IAS)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

@@ -1,16 +1,16 @@
 # hana-db (SAP HANA Service)
 
-Service category: **SERVICE**
-
 The SAP HANA service allows you to leverage the in-memory data processing capabilities of SAP HANA in the cloud. As a managed database service, backups are fully automated and service availability guaranteed. Using the SAP HANA service, you can set up and manage SAP HANA databases and bind them to applications running on SAP Cloud Platform. You can access SAP HANA databases using a variety of languages and interfaces, as well as build applications and models using tools provided with SAP HANA.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**
 
 - [Documentation](https://help.sap.com/viewer/product/HANA_SERVICE/Cloud/en-US)
 - [Documentation](https://help.sap.com/viewer/cc53ad464a57404b8d453bbadbc81ceb/Cloud/en-US/7cc0278fa13c4124bfe6af2ae5b59642.html)
 - [Support information](https://help.sap.com/viewer/cc53ad464a57404b8d453bbadbc81ceb/Cloud/en-US/1bc8ef5c136940c1a3a45f0d92abb0b8.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

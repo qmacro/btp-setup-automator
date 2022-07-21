@@ -1,14 +1,14 @@
 # tnt-onboard-dataenrichment-dcp (Data Enrichment)
 
-Service category: **APPLICATION**
-
 Provides Business Partner data from third-party data providers
 
 ## Additional details
+- Service category: **APPLICATION**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/Cloud_Platform_Data_Enrichment/latest/en-US)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

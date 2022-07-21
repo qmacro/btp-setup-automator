@@ -1,10 +1,10 @@
 # INFRA (Custom Domain Service)
 
-Service category: **SERVICE**
-
 The SAP Cloud Platform Custom Domain service lets you configure your own custom domain to expose publicly your SAP Cloud Platform application instead of using the default subdomain.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/CUSTOM_DOMAINS/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/custom-domain)
@@ -12,7 +12,7 @@ The SAP Cloud Platform Custom Domain service lets you configure your own custom 
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/2291aea5e22440f7a161bdeb9c16b664.html)
 - [Support information](https://ga.support.sap.com/dtp/viewer/index.html#/tree/2437/actions/32393)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

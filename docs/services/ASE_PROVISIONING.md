@@ -1,15 +1,15 @@
 # ASE_PROVISIONING (SAP ASE Service)
 
-Service category: **SERVICE**
-
 The SAP ASE service on SAP Cloud Platform lets you consume SAP ASE databases from your applications running on SAP Cloud Platform or on-premise via Java APIs. It offers variousself-services, for example, that let you create or update databases, whileSAPis providing infrastructure and database platform operations.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/ASE_SERVICE/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-ase-service)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

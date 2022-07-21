@@ -1,15 +1,15 @@
 # sap-workzone (SAP Work Zone)
 
-Service category: **SERVICE**
-
 SAP Work Zone centralizes access to relevant business applications, processes, information, and communication in a unified entry point that users can access from any device.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**
 
 - [Documentation](https://help.sap.com/viewer/product/WZ/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-work-zone)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

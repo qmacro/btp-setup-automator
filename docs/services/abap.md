@@ -1,10 +1,10 @@
 # abap (ABAP environment)
 
-Service category: **SERVICE**
-
 Access an instance to build custom ABAP cloud apps, leveraging newest innovations powered by SAP HANA.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**
 
 - [Documentation](https://help.sap.com/viewer/3504ec5ef16548778610c7e89cc0eac3/Cloud/en-US/11d62652aa2b4600a0fa136de0789648.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/abap-environment)
@@ -12,7 +12,7 @@ Access an instance to build custom ABAP cloud apps, leveraging newest innovation
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/e34a329acc804c0e874496548183682f.html)
 - [Support information](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

@@ -1,10 +1,10 @@
 # mobile-services (Mobile Services)
 
-Service category: **SERVICE**
-
 Use Mobile Services to provide mobile access to enterprise information. Key features include app content lifecycle management, push notifications and support for offline apps, app security, app monitoring and usage reporting. Mobile Services can be used for native built apps, Mobile Development Kit apps and SAP Mobile Cards. Get started by clicking on the Support link below.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_MOBILE_SERVICES/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/mobile-services)
@@ -12,7 +12,7 @@ Use Mobile Services to provide mobile access to enterprise information. Key feat
 - [Mobile Services Consolidated Documentation (Cloud Foundry)](https://developers.sap.com/mobile)
 - [Support information](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

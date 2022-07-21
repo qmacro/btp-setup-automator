@@ -1,16 +1,16 @@
 # spatialservices (SAP HANA spatial services)
 
-Service category: **SERVICE**
-
 SAP HANA spatial services provides a unified access layer for location-based services, including maps for visualization, geocoding and routing capabilities. It integrates location-based content and services from external providers into SAP products and customer applications.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_HANA_SPATIAL_SERVICES/latest/)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-spatial-services)
 - [Documentation](https://help.sap.com/viewer/product/SAP_HANA_SPATIAL_SERVICES)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

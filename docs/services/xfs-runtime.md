@@ -1,15 +1,15 @@
 # xfs-runtime (Extension Factory, serverless runtime)
 
-Service category: **SERVICE**
-
 Allows you to create, manage, configure extensions on SAP Cloud Platform
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
 
 - [Documentation](https://help.sap.com/viewer/product/XF_SERVERLESS_RUNTIME/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/serverless-runtime)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|

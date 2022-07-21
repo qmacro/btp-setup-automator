@@ -1,15 +1,15 @@
 # dateandtime (Date and Time)
 
-Service category: **SERVICE**
-
 Get default date format for a given country, timezone details and time difference between two provided time values.
 
 ## Additional details
+- Service category: **SERVICE**
+- Supported environments: **cloudfoundry**
 
 - [Documentation](https://help.sap.com/docs/DATE_AND_TIME)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/date-and-time)
 
-## Service availability
+## Service availability in data centers
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
