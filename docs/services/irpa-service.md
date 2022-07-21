@@ -13,7 +13,7 @@ SAP Intelligent Robotic Process Automation (SAP Intelligent RPA) lets you automa
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  standard  |  standard  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
+|  standard  |  standard  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> jp10 - Japan (Tokyo)<br> us10 - US East (VA)  |
 
 ## Sample configuration of **SAP Intelligent Robotic Process Automation** for btp-setup-automator
 
