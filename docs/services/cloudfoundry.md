@@ -3,8 +3,8 @@
 The SAP BTP, Cloud Foundry runtime lets you develop polyglot cloud-native applications and run them on the SAP BTP Cloud Foundry environment.
 
 ## Additional details
-- Service category: **ENVIRONMENT**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: ENVIRONMENT
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/9c7092c7b7ae4d49bc8ae35fdd0e0b18.html#loio9c7092c7b7ae4d49bc8ae35fdd0e0b18)
 - [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)

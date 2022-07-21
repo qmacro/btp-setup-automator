@@ -3,8 +3,8 @@
 Benefit from the standalone, ready-to-use web application of SAP Document Management service that provides document management capabilities.
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/p/DOCUMENT_MANAGEMENT)
 

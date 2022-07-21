@@ -3,8 +3,8 @@
 SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery (CI/CD) pipelines that automatically build, test and deploy your code changes to speed up your development and delivery cycles.
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/docs/CONTINUOUS_DELIVERY?version=Cloud)
 - [Support](https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/6e10ad426e434180a0c62d4e7b6115bc.html)

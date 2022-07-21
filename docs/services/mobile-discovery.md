@@ -3,8 +3,8 @@
 Mobile Discovery
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/468990a67780424a9e66eb096d4345bb/Cloud/en-US/063c131a022e4432ae4f21022c90a178.html)
 - [Support information](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)

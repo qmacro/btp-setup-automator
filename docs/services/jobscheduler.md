@@ -3,8 +3,8 @@
 The Job Scheduling Service allows you to define and manage jobs that run once or on recurring schedules. Use this runtime-agnostic service to schedule REST endpoint actions in your application or to schedule long-running processes using Cloud Foundry tasks. Use REST APIs to schedule your jobs, including long-running jobs asynchronously, and create multiple schedule formats for both simple and complex recurring schedules. The service dashboard is a web interface that lets you manage jobs and schedules.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/JOB_SCHEDULER/Cloud/en-US)
 - [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)

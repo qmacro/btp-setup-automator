@@ -3,8 +3,8 @@
 Big Data Services
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 
 ## Service availability in data centers

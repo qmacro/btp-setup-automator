@@ -3,8 +3,8 @@
 Cloud Integration Automation service provides you a guided workflow to integrate SAP cloud solutions to On-Premise and other SAP Cloud solutions. The guided workflow contains instructions for manual and automated tasks to enable a simpler and faster integration configuration setup
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/Cloud%2520Integration%2520Automation%2520Service/Latest/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation)

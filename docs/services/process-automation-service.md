@@ -3,8 +3,8 @@
 SAP Process Automation is a citizen development solution to adapt, improve, and innovate business processes with the low-code/no-code capabilities of SAP Workflow Management and SAP Intelligent RPA.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/p/PROCESS_AUTOMATION)
 

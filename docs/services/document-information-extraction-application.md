@@ -3,8 +3,8 @@
 UI Application to upload document for extraction to Document Information Extraction and correct the results.
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/DOCUMENT_INFORMATION_EXTRACTION)
 

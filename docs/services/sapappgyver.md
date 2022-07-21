@@ -3,8 +3,8 @@
 Low-code / no-code tools from SAP that accelerate SAP business applications development.
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/6a5fc562f6e2402aa84b0416614a05fc/Dev/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/sap-appgyver)

@@ -3,8 +3,8 @@
 Provides an API that allows you to translate documents of various formats into multiple languages.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/9f73362817cd48339dd8a6acba160f7f/Cloud/en-US/c07bd4ee447b477b9ccb31b3abf5dae3.html)
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)

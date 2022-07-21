@@ -3,8 +3,8 @@
 The SAP Cloud Platform Custom Domain service lets you configure your own custom domain to expose publicly your SAP Cloud Platform application instead of using the default subdomain.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/CUSTOM_DOMAINS/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/custom-domain)

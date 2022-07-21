@@ -3,8 +3,8 @@
 Provides end-to-end visibility into processes that run in cloud, on-premise & in hybrid environments
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/VISIBILITY_SERVICE/Cloud/en-US)
 

@@ -3,8 +3,8 @@
 The SAP Cloud Platform Internet of Things service for the Cloud Foundry environment connects devices to SAP Cloud Platform to provide scalable ingestion of IoT data and device management. The respective services provide a secure connection to remote devices using a broad variety of IoT protocols and manage the device lifecycle from onboarding to decommissioning. 
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_CP_IOT_CF/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-iot)

@@ -3,8 +3,8 @@
 Object Store on SAP BTP provisions an object storage space that can be used by applications to store and manage objects.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*
 
 - [Documentation](https://help.sap.com/viewer/product/ObjectStore/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/object-store)

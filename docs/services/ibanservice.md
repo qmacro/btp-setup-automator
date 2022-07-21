@@ -3,8 +3,8 @@
 Check validity and get details of given IBAN number.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*
 
 - [Documentation](https://help.sap.com/docs/IBAN_SERVICE)
 - [Discovery Center]( https://discovery-center.cloud.sap/serviceCatalog/iban-service)

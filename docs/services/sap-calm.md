@@ -3,8 +3,8 @@
 This is memory extension for SAP Cloud ALM.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://support.sap.com/en/alm/sap-cloud-alm.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-cloud-alm-memory-extension)

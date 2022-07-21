@@ -3,8 +3,8 @@
 SAP Data Intelligence is the all-in-one data orchestration solution to discover, refine, enriche and govern any type, variety, and volume of data across your entire distributed data landscape. Deliver on the promise of AI with enterprise scale, trust, and transparency driving significant new business value and insights.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_DATA_INTELLIGENCE/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-data-intelligence)

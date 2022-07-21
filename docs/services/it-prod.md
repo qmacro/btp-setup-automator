@@ -3,8 +3,8 @@
 The SAP Cloud Integration connects cloud applications with other SAP and non-SAP cloud and on-premise apps.
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://cloudintegration.hana.ondemand.com/PI/help)
 

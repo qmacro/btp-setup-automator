@@ -3,8 +3,8 @@
 The SAP Cloud Platform Data Retention Manager lets you block or delete personal data based on the residence and retention rules maintained.
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/p/DATA_RETENTION_MANAGER)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-data-retention-manager)

@@ -3,8 +3,8 @@
 Create an ABAP Environment based SaaS Solution 
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*
 
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/195031ff8f484b51af16fe392ec2ae6e.html)
 - [Support information](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)

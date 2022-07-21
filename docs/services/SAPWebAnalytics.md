@@ -3,8 +3,8 @@
 SAP Web Analytics enables the collection and analysis of website data for understanding and optimizing web usage to measure organizational goals, drive strategy and improve the user's experience.
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_WEB_ANALYTICS/1.0/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/web-analytics)

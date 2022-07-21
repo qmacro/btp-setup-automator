@@ -3,8 +3,8 @@
 Manage print queues, connect print clients and monitor print status
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/SCP_PRINT_SERVICE/SHIP/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/print-service)

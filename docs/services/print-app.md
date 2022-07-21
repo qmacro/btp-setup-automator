@@ -3,8 +3,8 @@
 Allows you to manage print queue and monitor the print status
 
 ## Additional details
-- Service category: **APPLICATION**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: APPLICATION
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [Documentation](https://help.sap.com/viewer/product/SCP_PRINT_SERVICE/SHIP/en-US)
 

@@ -3,8 +3,8 @@
 SAP Cloud Platform Alert Notification offers a common API for providers to publish alerts and for consumers to subscribe to these alerts. It is designed to send automatically real-time notifications and alerts about SAP Cloud events that may be of interest to the business and operations.<br/><br/>SAP does not support EU Access for this service. By activating the service, you are accepting this limitation.
 
 ## Additional details
-- Service category: **SERVICE**
-- Supported environments: **cloudfoundry**, **kymaruntime**, **sapbtp**
+- Service category: SERVICE
+- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
 
 - [SAP Cloud Platform Alert Notification @SAP Help Portal](https://help.sap.com/viewer/p/ALERT_NOTIFICATION)
 - [SAP Cloud Platform Alert Notification @SAP Cloud Platform Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/alert-notification)
