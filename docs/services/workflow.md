@@ -4,7 +4,7 @@ SAP Workflow service allows you to build, run, and manage workflows, from simple
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/WORKFLOW_SERVICE)
 - [Support information](https://help.sap.com/viewer/e157c391253b4ecd93647bf232d18a83/Cloud/en-US/fab405aa1ec64d6e9880761a31b0cd06.html)

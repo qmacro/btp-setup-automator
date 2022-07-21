@@ -4,7 +4,7 @@ As we move toward an intelligent enterprise, intelligent systems need to determi
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/RESPONSIBILITY_MANAGEMENT_SCP/SHIP/en-US)
 

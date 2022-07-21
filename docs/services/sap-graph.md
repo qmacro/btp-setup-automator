@@ -4,7 +4,7 @@ SAP Graph is a new unified API for SAP, using modern open standards like OData v
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://graph.sap/docs/beta/)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/sap-graph)

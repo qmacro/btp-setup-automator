@@ -4,7 +4,7 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/dcbea777ceb3411cb10500a1a392273e/Cloud/en-US/8a668ee41fea4cf39c6bd6d21bff6a6e.html)
 - [Discovery Center](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/forms-service-by-adobe)

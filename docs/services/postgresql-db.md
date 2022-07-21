@@ -4,7 +4,7 @@ The PostgreSQL service on SAP BTP provides a way to directly consume the Postgre
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/c92112ee69784c3383a0fb8361156a6f/Cloud/en-US/b045b64925a544689dd839266a23c89b.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option)

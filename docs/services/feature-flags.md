@@ -4,7 +4,7 @@ The Feature Flags service allows you to enable or disable new features at runtim
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/FEATURE_FLAGS/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service)

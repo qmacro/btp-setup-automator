@@ -4,7 +4,7 @@ Document Information Extraction helps you to process various documents that have
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/dox)
 - [Support](https://help.sap.com/viewer/5fa7265b9ff64d73bac7cec61ee55ae6/SHIP/en-US/7ddd52320bae4d539393a4365b9f6aa6.html)

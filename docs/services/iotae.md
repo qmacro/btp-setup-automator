@@ -4,7 +4,7 @@ SAP IoT business services allow you to put raw sensor data into business object 
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_Leonardo_IoT)
 - [Documentation](https://help.sap.com/viewer/p/SAP_IoT)

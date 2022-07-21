@@ -4,7 +4,7 @@ The Market Rates Management, Refinitiv data option is a reuse service that allow
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_CP_BUS_REUSE_SERVICE_MRM_TR)
 

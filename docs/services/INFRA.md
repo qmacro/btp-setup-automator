@@ -4,7 +4,7 @@ The SAP Cloud Platform Custom Domain service lets you configure your own custom 
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/CUSTOM_DOMAINS/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/custom-domain)

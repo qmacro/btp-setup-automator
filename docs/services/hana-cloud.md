@@ -4,7 +4,7 @@ SAP HANA Cloud provides a single place to access, store, and process all enterpr
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/HANA_CLOUD)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud)

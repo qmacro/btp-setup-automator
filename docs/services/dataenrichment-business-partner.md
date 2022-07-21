@@ -4,7 +4,7 @@ Industrializes the use of third-party data for enterprise applications, and make
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/Cloud_Platform_Data_Enrichment/latest/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/data-enrichment)

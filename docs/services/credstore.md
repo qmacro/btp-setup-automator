@@ -4,7 +4,7 @@ The Credential Store provides a secure repository for passwords and keys to appl
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/CREDENTIAL_STORE/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/credential-store)

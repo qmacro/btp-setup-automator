@@ -4,7 +4,7 @@ Mobile Offline
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/468990a67780424a9e66eb096d4345bb/Cloud/en-US/25b620d388d743b5880113a0fb1938d0.html)
 - [Support information](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)

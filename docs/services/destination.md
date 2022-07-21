@@ -4,7 +4,7 @@ The Destination service lets you retrieve the backend destination details you ne
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/34010ace6ac84574a4ad02f5055d3597.html)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/destination)

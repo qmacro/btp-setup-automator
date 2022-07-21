@@ -4,7 +4,7 @@ Leverage the APIs of SAP Document Management service and build your own document
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/DOCUMENT_MANAGEMENT)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/document-management-service-integration-option)

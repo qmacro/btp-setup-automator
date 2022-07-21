@@ -4,7 +4,7 @@ SAP HANA spatial services provides a unified access layer for location-based ser
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_HANA_SPATIAL_SERVICES/latest/)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-spatial-services)

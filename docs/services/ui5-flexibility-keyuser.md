@@ -4,7 +4,7 @@ The UI5 flexibility service for key users lets you provide UI adaptation capabil
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/UI5_FLEXIBILITY_KEY_USER/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/ui5-flexibility-for-key-users)

@@ -4,7 +4,7 @@ The Manage Market Rates application enables you to read and manage market data y
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_CP_BUS_REUSE_SERVICE_MRM_TR)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/market-rates-refinitiv)

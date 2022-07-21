@@ -4,7 +4,7 @@ Redis on SAP BTP offers an in-memory data structure store that you can use as a 
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/Redis/Cloud/en-US)
 - [Tutorial](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/971730b26c93492e980a03c4619f9916.html)

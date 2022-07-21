@@ -4,7 +4,7 @@ Mobile Client Resource Service
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/468990a67780424a9e66eb096d4345bb/Cloud/en-US/f54ce45999d143ea8357210d580f0268.html)
 - [Support information](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)

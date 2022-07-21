@@ -4,7 +4,7 @@ Provides access to SAP Cloud Platform Integration runtime (integration flows) an
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://cloudintegration.hana.ondemand.com/PI/help)
 - [Support](https://cloudintegration.hana.ondemand.com/PI/help)

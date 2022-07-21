@@ -4,7 +4,7 @@ The Redis service on SAP BTP provides a way to directly consume the Redis cache 
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/ad8f6ea81b714bbb9bf995dd2c2b424e/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/redis-hyperscaler-option)

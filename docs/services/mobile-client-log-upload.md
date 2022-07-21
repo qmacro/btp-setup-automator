@@ -4,7 +4,7 @@ Mobile Client Log Upload Service
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/468990a67780424a9e66eb096d4345bb/Cloud/en-US/ee280404f7ea4bb1ac12d2271815e3e0.html)
 - [Support information](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)

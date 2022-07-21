@@ -4,7 +4,7 @@ With SAP Cloud Platform Backed service you can build robust, scalable and enterp
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/70dea311943a4ab99f903ccc584225f6/Cloud/en-US)
 

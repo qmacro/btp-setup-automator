@@ -4,7 +4,7 @@ In the Cloud Foundry environment, the SAP Application Logging service for SAP BT
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/APPLICATION_LOGGING/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/application-logging-service)

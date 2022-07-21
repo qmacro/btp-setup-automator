@@ -4,7 +4,7 @@ The SAP Task Center service only enables, but does not include the integration i
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/TASK_CENTER/Cloud/en-US)
 - [Support](https://help.sap.com/viewer/08cbda59b4954e93abb2ec85f1db399d/Cloud/en-US/9693186f1fe54cbe801085d6bdfe8287.html)

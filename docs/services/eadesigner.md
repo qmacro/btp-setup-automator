@@ -4,7 +4,7 @@ SAP Enterprise Architecture Designer, Cloud Edition (SAP EA Designer) lets you c
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/EAD_CLOUD/Cloud/en-US)
 

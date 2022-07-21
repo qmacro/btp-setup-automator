@@ -4,7 +4,7 @@ SAP Intelligent Robotic Process Automation lets you automate enterprise business
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/IRPA)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-intelligent-rpa)

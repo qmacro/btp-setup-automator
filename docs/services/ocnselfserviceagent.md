@@ -4,7 +4,7 @@ Open Connectors provides pre-built and feature-rich connectors to simplify the c
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/p/OPEN_CONNECTORS)
 

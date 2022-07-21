@@ -4,7 +4,7 @@ The Usage Data Management service broker allows you to use the new REST APIs to 
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/bf2b3043d0474ea0a2c11c0390460d85.html)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/usage-data-management-service)

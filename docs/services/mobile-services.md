@@ -4,7 +4,7 @@ Use Mobile Services to provide mobile access to enterprise information. Key feat
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: **cloudfoundry*, **kymaruntime*, **sapbtp*
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_MOBILE_SERVICES/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/mobile-services)
