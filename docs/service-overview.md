@@ -1,11 +1,11 @@
-# Service Overview
+# Services in a PAYG Account
 
-This lists shows all SAP BTP services
+This lists shows all SAP BTP services that are available in a [SAP BTP pay-as-you-go account](https://www.sap.com/products/business-technology-platform/trial.html).
 
 
 ## All services of category SERVICE
 
-Services are listed and sorted by their technical name. The display name is added in parentheses.
+Services are listed and sorted by their technical name. The display name is added in parentheses. Click on the link for a service to get service-specific details.
 
 - [abap](services/abap.md) (ABAP environment)
 - [abap-solution](services/abap-solution.md) (ABAP Solution)
@@ -131,7 +131,7 @@ Services are listed and sorted by their technical name. The display name is adde
 
 ## All services of category APPLICATION
 
-Services are listed and sorted by their technical name. The display name is added in parentheses.
+Services are listed and sorted by their technical name. The display name is added in parentheses. Click on the link for a service to get service-specific details.
 
 - [abapcp-web-router](services/abapcp-web-router.md) (Web access for ABAP)
 - [ads-configui](services/ads-configui.md) (Forms Service by Adobe)
@@ -189,7 +189,7 @@ Services are listed and sorted by their technical name. The display name is adde
 
 ## All services of category ENVIRONMENT
 
-Services are listed and sorted by their technical name. The display name is added in parentheses.
+Services are listed and sorted by their technical name. The display name is added in parentheses. Click on the link for a service to get service-specific details.
 
 - [cloudfoundry](services/cloudfoundry.md) (Cloud Foundry Runtime)
 - [kymaruntime](services/kymaruntime.md) (Kyma runtime)
