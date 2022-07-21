@@ -4,7 +4,7 @@ SAP Launchpad service provides users with a central point of access to applicati
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/launchpad-service)

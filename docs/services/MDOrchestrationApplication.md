@@ -4,7 +4,7 @@ Master data application for existing customers of SAP Master Data service for bu
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/product/DRAFT/SAP_CLOUD_PLATFORM_MASTER_DATA_INTEGRATION/CLOUD/en-US)
 

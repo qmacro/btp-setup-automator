@@ -4,7 +4,7 @@ The SAP Event Mesh service decouples communication and allows for event-driven b
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_ENTERPRISE_MESSAGING/Cloud/en-US)
 

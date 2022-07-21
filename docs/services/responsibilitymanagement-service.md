@@ -4,7 +4,7 @@ As we move toward an intelligent enterprise, intelligent systems need to determi
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 - [Documentation](https://help.sap.com/viewer/product/RESPONSIBILITY_MANAGEMENT_SCP/SHIP/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/responsibility-management-service)

@@ -4,7 +4,7 @@ Document Classification helps you to automate the management and processing of l
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 - [Documentation](https://help.sap.com/dc)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/document-classification)

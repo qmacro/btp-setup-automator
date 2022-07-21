@@ -4,7 +4,7 @@ The Workspace Utilization Management service lets you write sensor measurements 
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_CLOUD_FOR_REAL_ESTATE)
 

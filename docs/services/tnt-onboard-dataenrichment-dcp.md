@@ -4,7 +4,7 @@ Provides Business Partner data from third-party data providers
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/product/Cloud_Platform_Data_Enrichment/latest/en-US)
 

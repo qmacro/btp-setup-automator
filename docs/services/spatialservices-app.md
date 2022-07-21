@@ -4,7 +4,7 @@ HANA Spatial Services
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 
 ## Service availability in data centers

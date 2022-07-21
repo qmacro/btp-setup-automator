@@ -4,7 +4,7 @@ The SAP ASE service on SAP Cloud Platform lets you consume SAP ASE databases fro
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 - [Documentation](https://help.sap.com/viewer/product/ASE_SERVICE/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-ase-service)

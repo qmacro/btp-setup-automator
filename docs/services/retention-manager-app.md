@@ -4,7 +4,7 @@ The SAP Cloud Platform Data Retention Manager lets you block or delete personal 
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/p/DATA_RETENTION_MANAGER)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-data-retention-manager)

@@ -4,7 +4,7 @@ Big Data Services
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 
 ## Service availability in data centers

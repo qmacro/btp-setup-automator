@@ -4,7 +4,7 @@ Java Quota
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 - [Documentation](https://help.sap.com/viewer/product/VIRTUAL_MACHINES/Cloud/en-US)
 

@@ -4,7 +4,7 @@ The SAP Cloud Platform Custom Domain service lets you configure your own custom 
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/product/CUSTOM_DOMAINS/Cloud/en-US)
 - [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)

@@ -4,7 +4,7 @@ Cloud Identity Services provide basic capabilities for user authentication.
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/p/IDENTITY_AUTHENTICATION)
 

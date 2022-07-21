@@ -4,7 +4,7 @@ The Invoice Object Recommendation services provides the functionality to train a
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 - [Documentation](https://help.sap.com/viewer/product/Invoice_Object_Recommendation)
 

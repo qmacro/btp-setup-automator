@@ -4,7 +4,7 @@ Provides APIs for DetermineAgents using responsibility rules or external APIs(br
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: tbd
+- Supported environments: t, b, d
 
 - [Documentation](https://help.sap.com/viewer/product/DRAFT/RESPONSIBILITY_MANAGEMENT/1.0/en-US)
 

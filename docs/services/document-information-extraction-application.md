@@ -4,7 +4,7 @@ UI Application to upload document for extraction to Document Information Extract
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: tbd
+- Supported environments: N, /, A
 
 - [Documentation](https://help.sap.com/viewer/product/DOCUMENT_INFORMATION_EXTRACTION)
 
