@@ -16,7 +16,7 @@ The SAP Cloud Platform Custom Domain service lets you configure your own custom 
 
 | Plan name | Display name | Data center availability  |
 |------|----------------|---------------------------|
-|  custom_domains  |  Quota for Custom Domains  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> ch20 - cf-ch20<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> eu30 - Europe (Frankfurt)<br> in30 - India (Mumbai)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
+|  custom_domains  |  custom_domains  | ap10 - Australia (Sydney)<br> ap11 - Singapore<br> ap12 - South Korea (Seoul)<br> ap20 - Australia (Sydney) Azure<br> ap21 - Singapore<br> br10 - Brazil (Sao Paulo)<br> ca10 - Canada (Montreal)<br> ch20 - cf-ch20<br> eu10 - Europe (Frankfurt)<br> eu11 - Europe (Frankfurt) EU Access - AWS<br> eu20 - Europe (Netherlands)<br> eu30 - Europe (Frankfurt)<br> in30 - India (Mumbai)<br> jp10 - Japan (Tokyo)<br> jp20 - Japan (Tokyo)<br> us10 - US East (VA)<br> us20 - US West (WA)<br> us21 - US East (VA)<br> us30 - US Central (IA)  |
 
 ## Sample configuration of **Custom Domain Service** for btp-setup-automator
 
@@ -24,7 +24,7 @@ The [btp-setup-automator](https://github.com/SAP-samples/btp-setup-automator) he
 
 You can setup a service instance for **INFRA** by configuring your `usecase.json` file.
 
-### Using the service plan **custom_domains** (Quota for Custom Domains)
+### Using the service plan **custom_domains**
 
 ```json
 {
