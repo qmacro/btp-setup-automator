@@ -88,12 +88,7 @@ You can setup a service instance for **abap** by configuring your `usecase.json`
     {
       "category": "SERVICE",
       "name": "abap",
-      "plan": "free", 
-      "parameters" : { 
-        "admin_email": null,
-        "description": null,
-        "sapsystemname": "H01"
-      }
+      "plan": "free"
     }
   ]
 }

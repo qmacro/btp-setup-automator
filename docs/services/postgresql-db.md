@@ -113,11 +113,7 @@ You can setup a service instance for **postgresql-db** by configuring your `usec
     {
       "category": "SERVICE",
       "name": "postgresql-db",
-      "plan": "free", 
-      "parameters" : { 
-        "engine_version": "12",
-        "locale": "en_US"
-      }
+      "plan": "free"
     }
   ]
 }

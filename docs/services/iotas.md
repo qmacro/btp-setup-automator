@@ -4,7 +4,7 @@ SAP IoT business services allow you to put raw sensor data into business object 
 
 ## Additional details
 - Service category: APPLICATION
-
+- Supported environments: N/A
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_Leonardo_IoT)
 

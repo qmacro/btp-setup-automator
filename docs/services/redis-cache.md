@@ -85,11 +85,7 @@ You can setup a service instance for **redis-cache** by configuring your `usecas
     {
       "category": "SERVICE",
       "name": "redis-cache",
-      "plan": "free", 
-      "parameters" : { 
-        "engine_version": "4.0",
-        "eviction_policy": "noeviction"
-      }
+      "plan": "free"
     }
   ]
 }

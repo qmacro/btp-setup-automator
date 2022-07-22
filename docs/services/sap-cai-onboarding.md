@@ -4,7 +4,7 @@ SAP Conversational AI is a collaborative end-to-end platform for creating chatbo
 
 ## Additional details
 - Service category: APPLICATION
-
+- Supported environments: N/A
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_CONVERSATIONAL_AI)
 - [Support](https://launchpad.support.sap.com)

@@ -4,10 +4,12 @@ The SAP Order Management foundation solution, including the application and serv
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: t, b, d
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/docs/SAP_Order_Management_Foundation?version=Cloud&locale=en-US)
 - [Support](https://help.sap.com/docs/SAP_Order_Management_Foundation/d91676a7fa624c31b7b1c526d7787e2f/ca6630612cf741ed8927d60fabe13929.html?locale=en-US&version=Cloud)
+- [Documentation](https://help.sap.com/viewer/product/C4_OrdMgmt/latest/en-US)
+- [Support information](https://help.sap.com/viewer/032cde7eac274695897645010260f636/latest/en-US/ca6630612cf741ed8927d60fabe13929.html)
 
 ## Service availability in data centers
 

@@ -4,7 +4,7 @@ Benefit from the standalone, ready-to-use web application of SAP Document Manage
 
 ## Additional details
 - Service category: APPLICATION
-
+- Supported environments: N/A
 
 - [Documentation](https://help.sap.com/viewer/p/DOCUMENT_MANAGEMENT)
 

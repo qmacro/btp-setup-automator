@@ -39,11 +39,7 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "relational-data-lake-free", 
-      "parameters" : { 
-        "data": null,
-        "metadata": null
-      }
+      "plan": "relational-data-lake-free"
     }
   ]
 }
@@ -73,10 +69,7 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "hana-cloud-connection-free", 
-      "parameters" : { 
-        "data": null
-      }
+      "plan": "hana-cloud-connection-free"
     }
   ]
 }
@@ -110,11 +103,7 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "hana-free", 
-      "parameters" : { 
-        "data": null,
-        "metadata": null
-      }
+      "plan": "hana-free"
     }
   ]
 }

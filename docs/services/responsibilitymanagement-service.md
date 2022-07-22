@@ -4,10 +4,11 @@ As we move toward an intelligent enterprise, intelligent systems need to determi
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: t, b, d
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/RESPONSIBILITY_MANAGEMENT_SCP/SHIP/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/responsibility-management-service)
+- [Documentation](https://help.sap.com/viewer/8308e6d301d54584a33cd04a9861bc52/1809.000/en-US/a4a31dc3e2824cb1afc7be8eafc07f5c.html?q=Responsibility%20Management)
 
 ## Service availability in data centers
 

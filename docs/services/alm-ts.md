@@ -4,7 +4,7 @@ SAP Cloud Transport Management service lets you manage software deliverables bet
 
 ## Additional details
 - Service category: APPLICATION
-
+- Supported environments: N/A
 
 - [Documentation](https://help.sap.com/viewer/p/TRANSPORT_MANAGEMENT_SERVICE)
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)

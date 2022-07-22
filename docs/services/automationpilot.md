@@ -4,7 +4,7 @@ SAP Automation Pilot provides out-of-the-box high-quality automation such as app
 
 ## Additional details
 - Service category: APPLICATION
-
+- Supported environments: N/A
 
 - [Documentation](https://help.sap.com/viewer/product/AUTOMATION_PILOT)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/automation-pilot)

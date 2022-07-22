@@ -9,7 +9,7 @@ SAP Graph is a new unified API for SAP, using modern open standards like OData v
 - [Documentation](https://graph.sap/docs/beta/)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/sap-graph)
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
-- [Documentation](https://explore.dev.graph.sap/docs/beta)
+- [Documentation](https://explore.graph.sap/docs/beta)
 
 ## Service availability in data centers
 

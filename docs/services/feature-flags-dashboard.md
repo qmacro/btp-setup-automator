@@ -4,7 +4,7 @@ View and manage Feature Flags Service instances. Get information about flags sta
 
 ## Additional details
 - Service category: APPLICATION
-
+- Supported environments: N/A
 
 
 ## Service availability in data centers

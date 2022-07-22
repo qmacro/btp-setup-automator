@@ -4,11 +4,12 @@ Mobile Services Preview gives you an opportunity to test new features a couple o
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: t, b, d
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_MOBILE_SERVICES/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/mobile-services)
 - [Mobile Services Consolidated Documentation (Cloud Foundry)](https://developers.sap.com/mobile)
+- [Support information](https://mobile-service-cockpit-web-preview.cfapps.eu10.hana.ondemand.com)
 
 ## Service availability in data centers
 

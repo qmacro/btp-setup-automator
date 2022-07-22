@@ -4,9 +4,10 @@ The SAP Private Link service (BETA) establishes a private connection between sel
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: t, b, d
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/PRIVATE_LINK/CLOUD/en-US)
+- [Support information](https://support.sap.com/en/index.html)
 
 ## Service availability in data centers
 
@@ -29,7 +30,12 @@ You can setup a service instance for **privatelink** by configuring your `usecas
     {
       "category": "SERVICE",
       "name": "privatelink",
-      "plan": "standard"
+      "plan": "standard", 
+      "parameters" : { 
+        "requestMessage": null,
+        "resourceId": null,
+        "subResource": null
+      }
     }
   ]
 }

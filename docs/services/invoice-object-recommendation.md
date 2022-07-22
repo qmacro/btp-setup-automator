@@ -4,9 +4,10 @@ The Invoice Object Recommendation services provides the functionality to train a
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: t, b, d
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/Invoice_Object_Recommendation)
+- [Documentation](https://help.sap.com/ior)
 
 ## Service availability in data centers
 

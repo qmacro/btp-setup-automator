@@ -4,7 +4,7 @@ SAP Audit Log Viewer service for SAP BTP helps to view and manage audit logs.
 
 ## Additional details
 - Service category: APPLICATION
-
+- Supported environments: N/A
 
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/e3baa5f1a0c64c44aac8ab3ea3d1b500.html)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service)

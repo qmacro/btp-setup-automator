@@ -10,7 +10,7 @@ Use Mobile Services to provide mobile access to enterprise information. Key feat
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/mobile-services)
 - [Business Technology Platform Supplemental Terms and Conditions](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc)
 - [Mobile Services Consolidated Documentation (Cloud Foundry)](https://developers.sap.com/mobile)
-- [Support information](https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com)
+- [Support information](https://mobile-service-cockpit-web.cfapps.eu10.hana.ondemand.com)
 
 ## Service availability in data centers
 

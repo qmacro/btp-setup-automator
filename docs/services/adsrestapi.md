@@ -8,7 +8,7 @@ SAP Forms service by Adobe lets you generate print and interactive forms using A
 
 - [Documentation](https://help.sap.com/viewer/dcbea777ceb3411cb10500a1a392273e/Cloud/en-US/661c02ef20d54bfeb309d42608baeaca.html)
 - [Discovery Center](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/forms-service-by-adobe)
-- [Documentation](https://adsrestapi-formsprocessing.cfapps.us10.hana.ondemand.com/swagger-ui.html)
+- [Documentation](https://adsrestapi-formsprocessing.cfapps.eu10.hana.ondemand.com/swagger-ui.html)
 
 ## Service availability in data centers
 

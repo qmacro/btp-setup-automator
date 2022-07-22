@@ -38,10 +38,8 @@ You can setup a service instance for **data-intelligence** by configuring your `
         "adminPassword": null,
         "adminUsername": null,
         "hibernationSchedules": null,
-        "keyRef": null,
         "maxNodes": null,
         "minNodes": null,
-        "useCMK": null,
         "vpcCIDR": null
       }
     }
@@ -63,10 +61,8 @@ You can setup a service instance for **data-intelligence** by configuring your `
         "adminPassword": null,
         "adminUsername": null,
         "hibernationSchedules": null,
-        "keyRef": null,
         "maxNodes": null,
         "minNodes": null,
-        "useCMK": null,
         "vpcCIDR": null
       }
     }
