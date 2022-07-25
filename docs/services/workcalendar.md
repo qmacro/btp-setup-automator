@@ -4,7 +4,7 @@ Get details of factory calendar such as weekday, holiday, workday for a country.
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry
+- Supported environments: cloudfoundry, kymaruntime, sapbtp
 
 - [Documentation](https://help.sap.com/docs/WORK_CALENDAR)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/work-calendar)

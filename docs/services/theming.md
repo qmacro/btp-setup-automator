@@ -4,7 +4,7 @@ The UI theme designer lets you apply your corporate branding to applications bui
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/product/UI_THEME_DESIGNER/Cloud/en-US)
 - [SAP Community](http://www.sap.com/community/topic/ui-theme-designer.html)

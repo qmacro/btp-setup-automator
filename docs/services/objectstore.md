@@ -9,7 +9,6 @@ Object Store on SAP BTP provisions an object storage space that can be used by a
 - [Documentation](https://help.sap.com/viewer/product/ObjectStore/Cloud/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/object-store)
 - [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)
-- [Documentation](https://help.sap.com/viewer/2ee77ef7ea4648f9ab2c54ee3aef0a29/Cloud/en-US)
 
 ## Service availability in data centers
 

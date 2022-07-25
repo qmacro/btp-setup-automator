@@ -4,7 +4,7 @@ The Authorization and Trust Management service lets you manage user authorizatio
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry, sapcp, kymaruntime
 
 - [Documentation](https://help.sap.com/viewer/product/CP_AUTHORIZ_TRUST_MNG/Cloud/en-US)
 - [REST API Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/dbea343ebe184c26b6067daaabaa9ac6.html)

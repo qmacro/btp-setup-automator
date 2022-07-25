@@ -4,10 +4,10 @@ Mobile Sample OData
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/468990a67780424a9e66eb096d4345bb/Cloud/en-US/1c2e51a24361487f8b0649702d59dd0f.html)
-- [Support information](https://mobile-service-cockpit-web.cfapps.eu10.hana.ondemand.com)
+- [Support information](https://mobile-service-cockpit-web.cfapps.br10.hana.ondemand.com)
 
 ## Service availability in data centers
 

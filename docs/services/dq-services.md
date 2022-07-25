@@ -4,7 +4,7 @@ SAP Data Quality Management offers cloud-based services that let you embed addre
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [$18n{applicationCoordinates.serviceDescription.title_documentation}](https://help.sap.com/viewer/d95546360fea44988eb614718ff7e959/Cloud/en-US)
 - [License Terms](https://www.sap.com/about/trust-center/agreements/on-premise/product-use-and-support-terms.html?tag=agreements:product-use-support-terms/on-premise-software/software-use-rights/)

@@ -4,7 +4,7 @@ Personalized Recommendation is a generic reusable service. It uses state-of-the-
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/pr)
 - [Support](https://help.sap.com/docs/Personalized_Recommendation/2c2078b9efa84566ac19d44df9625c65/c9cb13e6510248bdbb60ab0ea799d046.html)

@@ -4,7 +4,7 @@ The Job Scheduling Service allows you to define and manage jobs that run once or
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/product/JOB_SCHEDULER/Cloud/en-US)
 - [Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html)

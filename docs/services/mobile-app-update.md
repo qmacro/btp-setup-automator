@@ -4,10 +4,10 @@ Mobile App Update
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/468990a67780424a9e66eb096d4345bb/Cloud/en-US/fb0364cb13b44f84803657a386811f2a.html)
-- [Support information](https://mobile-service-cockpit-web.cfapps.eu10.hana.ondemand.com)
+- [Support information](https://mobile-service-cockpit-web.cfapps.br10.hana.ondemand.com)
 
 ## Service availability in data centers
 

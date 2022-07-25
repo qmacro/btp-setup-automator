@@ -4,7 +4,7 @@ SAP HANA Cloud provides a single place to access, store, and process all enterpr
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/p/HANA_CLOUD)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud)
@@ -39,7 +39,11 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "relational-data-lake-free"
+      "plan": "relational-data-lake-free", 
+      "parameters" : { 
+        "data": null,
+        "metadata": null
+      }
     }
   ]
 }
@@ -54,7 +58,10 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "adaptive-server-enterprise-replication"
+      "plan": "adaptive-server-enterprise-replication", 
+      "parameters" : { 
+        "data": null
+      }
     }
   ]
 }
@@ -69,7 +76,10 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "hana-cloud-connection-free"
+      "plan": "hana-cloud-connection-free", 
+      "parameters" : { 
+        "data": null
+      }
     }
   ]
 }
@@ -103,7 +113,11 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "hana-free"
+      "plan": "hana-free", 
+      "parameters" : { 
+        "data": null,
+        "metadata": null
+      }
     }
   ]
 }
@@ -136,7 +150,11 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "adaptive-server-enterprise"
+      "plan": "adaptive-server-enterprise", 
+      "parameters" : { 
+        "data": null,
+        "metadata": null
+      }
     }
   ]
 }

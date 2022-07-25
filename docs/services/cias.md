@@ -4,7 +4,7 @@ Cloud Integration Automation service provides you a guided workflow to integrate
 
 ## Additional details
 - Service category: APPLICATION
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/product/Cloud%2520Integration%2520Automation%2520Service/Latest/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation)

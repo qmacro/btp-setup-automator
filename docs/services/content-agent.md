@@ -4,7 +4,7 @@ SAP Content Agent service allows you to assemble the content into MTAR and expor
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/p/CONTENT_AGENT_SERVICE)
 

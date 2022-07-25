@@ -4,7 +4,7 @@ With SAP Analytics Cloud, embedded edition, you can build and embed reports, das
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/product/SAC_EMBEDDED_EDITION/1.0/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/sap-analytics-cloud-embedded-edition)

@@ -4,7 +4,7 @@ Data Privacy Integration (DPI) is a service that supports applications realize t
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry, kymaruntime, sapcp
 
 - [Documentation](https://help.sap.com/viewer/product/DATA_PRIVACY_INTEGRATION/SHIP/en-US)
 - [Support](https://help.sap.com/viewer/313a456d8f6c47289945699fbf5ab0c6/DEV/en-US)

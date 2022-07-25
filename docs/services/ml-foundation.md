@@ -4,7 +4,7 @@ SAP Leonardo Machine Learning Foundation enables you to enhance business process
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapbtp
+- Supported environments: cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/p/SAP_LEONARDO_MACHINE_LEARNING_FOUNDATION)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/machine-learning-foundation)
