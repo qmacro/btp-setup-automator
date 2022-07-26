@@ -4,7 +4,7 @@ SAP Audit Log Management service helps to retrieve logs and change retention.
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapcp
+- Supported environments: kymaruntime, cloudfoundry, sapcp
 
 - [Documentation](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/f92c86ab11f6474ea5579d839051c334.html)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service)

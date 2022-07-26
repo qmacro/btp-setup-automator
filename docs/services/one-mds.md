@@ -4,7 +4,7 @@ SAP Business Technology Platform Master Data Integration service offers master d
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapcp
+- Supported environments: kymaruntime, cloudfoundry, sapcp
 
 - [Documentation](https://help.sap.com/viewer/product/SAP_MASTER_DATA_INTEGRATION/CLOUD/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/master-data-integration?region=all)

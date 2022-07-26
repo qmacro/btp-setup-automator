@@ -4,7 +4,7 @@ SAP Cloud Platform Alert Notification offers a common API for providers to publi
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: sapbtp, cloudfoundry, kymaruntime
+- Supported environments: kymaruntime, cloudfoundry, sapbtp
 
 - [SAP Cloud Platform Alert Notification @SAP Help Portal](https://help.sap.com/viewer/p/ALERT_NOTIFICATION)
 - [SAP Cloud Platform Alert Notification @SAP Cloud Platform Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/alert-notification)

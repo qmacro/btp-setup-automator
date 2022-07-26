@@ -17,7 +17,7 @@
 | [blockchain-services](services/blockchain-services.md) (Blockchain Application Enablement) | X ||||
 | [business-entity-recognition](services/business-entity-recognition.md) (Business Entity Recognition) | X ||||
 | [business-rules](services/business-rules.md) (Business Rules) | X | X |||
-| [c4-distributed-order-management](services/c4-distributed-order-management.md) (SAP Order Management Foundation) | X | X | X ||
+| [c4-distributed-order-management](services/c4-distributed-order-management.md) (SAP Order Management Foundation) | X ||||
 | [cias](services/cias.md) (Cloud Integration Automation Service) | X || X ||
 | [cicd-service](services/cicd-service.md) (Continuous Integration & Delivery) | X | X | X ||
 | [cis](services/cis.md) (Cloud Management Service) | X | X | X ||
@@ -49,7 +49,7 @@
 | [invoice-object-recommendation](services/invoice-object-recommendation.md) (Invoice Object Recommendation) | X ||||
 | [iot](services/iot.md) (Internet of Things) | X | X | X ||
 | [iotae](services/iotae.md) (SAP IoT) | X ||||
-| [irpa-service](services/irpa-service.md) (SAP Intelligent Robotic Process Automation) | X | X | X ||
+| [irpa-service](services/irpa-service.md) (SAP Intelligent Robotic Process Automation) | X ||||
 | [it-rt](services/it-rt.md) (Process Integration Runtime) | X | X |||
 | [jobscheduler](services/jobscheduler.md) (Job Scheduling Service) | X ||||
 | [malware-scanner](services/malware-scanner.md) (Malware Scanning Service) | X | X | X ||

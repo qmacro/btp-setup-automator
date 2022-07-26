@@ -54,6 +54,7 @@ You can setup a service instance for **postgresql-db** by configuring your `usec
       "parameters" : { 
         "audit_log_level": ["ROLE", "DDL"],
         "engine_version": "12",
+        "locale": "en_US",
         "maintenance_window": null,
         "memory": 2,
         "multi_az": true,
@@ -77,6 +78,7 @@ You can setup a service instance for **postgresql-db** by configuring your `usec
       "parameters" : { 
         "audit_log_level": ["ROLE", "DDL"],
         "engine_version": "12",
+        "locale": "en_US",
         "maintenance_window": null,
         "memory": 8,
         "multi_az": true,
@@ -111,7 +113,11 @@ You can setup a service instance for **postgresql-db** by configuring your `usec
     {
       "category": "SERVICE",
       "name": "postgresql-db",
-      "plan": "free"
+      "plan": "free", 
+      "parameters" : { 
+        "engine_version": "12",
+        "locale": "en_US"
+      }
     }
   ]
 }

@@ -58,10 +58,7 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "adaptive-server-enterprise-replication", 
-      "parameters" : { 
-        "data": null
-      }
+      "plan": "adaptive-server-enterprise-replication"
     }
   ]
 }
@@ -150,11 +147,7 @@ You can setup a service instance for **hana-cloud** by configuring your `usecase
     {
       "category": "SERVICE",
       "name": "hana-cloud",
-      "plan": "adaptive-server-enterprise", 
-      "parameters" : { 
-        "data": null,
-        "metadata": null
-      }
+      "plan": "adaptive-server-enterprise"
     }
   ]
 }

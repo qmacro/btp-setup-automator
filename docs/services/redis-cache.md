@@ -41,6 +41,7 @@ You can setup a service instance for **redis-cache** by configuring your `usecas
         "maintenance_window": null,
         "memory": 8,
         "multi_az": true,
+        "node_count": 3,
         "notify_keyspace_events": "",
         "shard_count": 1
       }
@@ -60,10 +61,13 @@ You can setup a service instance for **redis-cache** by configuring your `usecas
       "name": "redis-cache",
       "plan": "standard", 
       "parameters" : { 
+        "cluster_mode": true,
         "engine_version": "4.0",
         "eviction_policy": "noeviction",
         "maintenance_window": null,
         "memory": 2,
+        "multi_az": true,
+        "node_count": 3,
         "notify_keyspace_events": "",
         "shard_count": 1
       }

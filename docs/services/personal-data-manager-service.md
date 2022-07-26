@@ -4,7 +4,7 @@ SAP Personal Data Manager provides the capability to generate reports showing th
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime, sapcp
+- Supported environments: kymaruntime, cloudfoundry, sapcp
 
 - [Documentation](https://help.sap.com/viewer/product/PERSONAL_DATA_MANAGER/SHIP/en-US)
 - [Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/personal-data-manager)

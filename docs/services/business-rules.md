@@ -4,7 +4,7 @@ SAP Business Rules service translates business-decision logic into natural langu
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: cloudfoundry, kymaruntime
+- Supported environments: kymaruntime, cloudfoundry
 
 - [Documentation](https://help.sap.com/viewer/product/BUSINESS_RULES/Cloud/en-US)
 - [Documentation](https://cloudplatform.sap.com/capabilities/integration/business-rules.html)

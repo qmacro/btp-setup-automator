@@ -4,7 +4,7 @@ Service for application providers to register multitenant applications and servi
 
 ## Additional details
 - Service category: SERVICE
-- Supported environments: sapbtp, cloudfoundry, kymaruntime
+- Supported environments: kymaruntime, cloudfoundry, sapbtp
 
 - [Documentation](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5e8a2b74e4f2442b8257c850ed912f48.html)
 - [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/saas-provisioning-service?service_plan=application&region=all)
