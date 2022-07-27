@@ -3,7 +3,6 @@ repo_url: https://github.com/SAP-samples/btp-setup-automator
 nav:
   - Home: index.md
   - "Services Drill-Down":
-      - "Supported Environments": service-supportedEnvironments.md
       - "Pay as you Go": service-overview.md
       - "Free Tier": free-tier.md
 theme:
