@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-usecase.json",
+  "aboutThisUseCase": {
+    "name": "Kyma cross consumption service test",
+    "description": "This project will test the service for cross consumability",
+    "author": "n.murkute@sap.com, shivakumar.prabhuswamy@sap.com",
+    "testStatus": "tested successfully",
+    "usageStatus": "READY TO BE USED"
+  },
+  "services": [
+      {
+          "category": "ENVIRONMENT",
+          "name": "kymaruntime",
+          "plan": "azure",
+          "amount": 1,
+          "parameters": {
+            "name": "kyma-dummy",
+            "region": "eastus"
+          }
+        },
+      {
+          "name": "destination",
+          "plan": "lite",
+          "category": "SERVICE",
+          "targetenvironment": "kymaruntime",
+          "createServiceKeys": [
+              "destination-lite"
+          ],
+          "api_resource_uri":{
+            "testapi":"/destination-configuration/v1/subaccountDestinations",
+            "apiBaseUrlPathKey":"data.uri",
+            "oauthurlPathkey":"data.url",
+            "clientId_basicUN_PathKey":"data.clientid",
+            "clientSecret_basicPW_PathKey":"data.clientsecret",
+            "authMethod": "oauth",
+            "APITest": "yes",
+            "serviceID": "SERVICE-171"
+          }
+      }
+  ],
+  "enableAPITest":false
+}

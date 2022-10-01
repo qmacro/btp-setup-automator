@@ -84,6 +84,14 @@ def convertJsonToString(json):
     return string
 
 
+def isValidJson(jsondata):
+    try:
+        json.loads(jsondata)
+    except ValueError:
+        return False
+    return True    
+
+
 def addKeyValuePair(json, key, value):
     json[key] = value
     return json

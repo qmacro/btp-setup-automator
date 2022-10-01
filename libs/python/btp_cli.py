@@ -1,5 +1,4 @@
 import libs.python.helperArgParser as helperArgParser
-from .helperCliVersions import getAllCliVersions
 from libs.python.helperFolders import FOLDER_SCHEMA_LIBS
 from libs.python.helperJson import addKeyValuePair, dictToString, convertStringToJson, getJsonFromFile
 from libs.python.helperBtpTrust import runTrustFlow
@@ -9,7 +8,7 @@ from libs.python.helperServiceInstances import createServiceKey, deleteServiceIn
 from libs.python.helperGeneric import buildUrltoSubaccount, getNamingPatternForServiceSuffix, createSubaccountName, createSubdomainID, createOrgName, save_collected_metadata
 from libs.python.helperFileAccess import writeKubeConfigFileToDefaultDir
 from libs.python.helperEnvKyma import extractKymaDashboardUrlFromEnvironmentDataEntry, getKymaEnvironmentInfoByClusterName, getKymaEnvironmentStatusFromEnvironmentDataEntry, extractKymaKubeConfigUrlFromEnvironmentDataEntry, getKymaEnvironmentIdByClusterName
-
+from libs.python.helperApiTest import APITest
 import os
 import sys
 import time
@@ -38,8 +37,6 @@ class BTPUSECASE:
         log.info("Git version >" +
                  os.getenv('BTPSA_VERSION_GIT', "not set") + "<")
 
-        self.versionInfoClis = getAllCliVersions()
-
         # If no suffix for service names was provided, create one (with getNamingPatternForServiceSuffix())
         if self.suffixinstancename is None or self.suffixinstancename == "":
             self.suffixinstancename = getNamingPatternForServiceSuffix(self)
@@ -56,11 +53,9 @@ class BTPUSECASE:
         self.accountMetadata = None
 
         allServices = readAllServicesFromUsecaseFile(self)
-        self.availableCategoriesService = [
-            "SERVICE", "ELASTIC_SERVICE", "PLATFORM", "CF_CUP_SERVICE"]
-        self.availableCategoriesApplication = [
-            "APPLICATION", "QUOTA_BASED_APPLICATION"]
-
+        self.availableCategoriesService = ["SERVICE", "ELASTIC_SERVICE", "PLATFORM", "CF_CUP_SERVICE"]
+        self.availableCategoriesApplication = ["APPLICATION", "QUOTA_BASED_APPLICATION"]
+        self.enableAPITest = getServiceTestStatusFromUsecaseFile(self.usecasefile)
         self.definedServices = getServiceCategoryItemsFromUsecaseFile(
             self, allServices, self.availableCategoriesService)
         self.definedEnvironments = getEnvironmentsForUsecase(self, allServices)
@@ -80,6 +75,7 @@ class BTPUSECASE:
             self.accountMetadata, "myemail", self.myemail)
         save_collected_metadata(self)
         checkConfigurationInfo(self)
+        self.__api_test = APITest()
 
     def outputCurrentBtpUsecaseVariables(self):
         # First detect the maximum string length of the parameter and values
@@ -656,6 +652,14 @@ class BTPUSECASE:
 
         return accountMetadata
 
+    def execute_api_test(self):
+        if hasattr(self, "enableAPITest"):
+            apiCheckStatus = self.enableAPITest
+            if apiCheckStatus:
+                log.info("\n###########---Beginning of API Testing---############\n")
+                _ = self.__api_test(self)
+                log.info("\n###########---API Testing Completed---############\n")
+
     def finish(self):
         runTrustFlow(self)
 
@@ -729,6 +733,13 @@ def getAdminsFromUsecaseFile(btpUsecase: BTPUSECASE):
             "no admins defined in your use case configuration file (other than you)")
 
     return items
+
+
+def getServiceTestStatusFromUsecaseFile(btpUsecase: str):
+    usecase = getJsonFromFile(btpUsecase)
+    if not usecase.get("enableAPITest", False):
+        return False
+    return True
 
 
 def check_if_account_can_cover_use_case_for_serviceType(btpUsecase: BTPUSECASE, availableForAccount, availableCustomApps):
@@ -1339,7 +1350,7 @@ def pruneUseCaseAssets(btpUsecase: BTPUSECASE):
         for service in accountMetadata["createdServiceInstances"]:
             service["deletionStatus"] = "not deleted"
             service["failedDeletions"] = 0
-        maxRetriesForFailedDeletion = 5
+        maxRetriesForFailedDeletion = 5    
         while usecaseTimeout > current_time and allServicesDeleted is False:
             for service in accountMetadata["createdServiceInstances"]:
                 if "instancename" not in service:
